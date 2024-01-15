@@ -1,12 +1,16 @@
 const express = require("express")
-const app = express()
+const cors = require('cors')
 const catagory = require('./data/categories.json')
 const resource = require('./data/resources.json')
+const app = express()
 const PORT = process.env.PORT || 8080;
+
+app.use(cors())
 
 app.get('/', (req, res)=> {
     res.send("ok")
 })
+
 app.get('/catagories', (req,res)=> {
     res.json(catagory)
 })
