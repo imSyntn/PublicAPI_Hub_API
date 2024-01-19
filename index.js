@@ -5,8 +5,6 @@ const resource = require('./data/resources.json')
 const app = express()
 const PORT = process.env.PORT || 8080;
 
-const reversedCatagory = catagory.entries.reverse();
-
 app.use(cors({
     origin: true,
     credentials: true,
@@ -37,11 +35,11 @@ app.get('/search/:name', (req,res)=> {
 })
 
 app.get('/random', (req, res)=> {
-    const randomAPIs = reversedCatagory.map(item => item.name.toLowerCase()).map(itemName => {
+    const randomAPIs = catagory.entries.map(item => item.name.toLowerCase()).map(itemName => {
         const sameCatagory = getSpecificCataoryResult(resource.entries, itemName)
         return sameCatagory[Math.floor(Math.random() * sameCatagory.length)]
     })
-    res.send(randomAPIs)
+    res.send(randomAPIs.reverse())
 })
 
 app.listen(PORT, ()=> {
