@@ -11,7 +11,7 @@ app.use(cors({
 }))
 
 const getSpecificCataoryResult = (array, name) => {
-    const data = array.filter((set)=> set.Category.toLowerCase() === name)
+    const data = array.filter((set)=> set.Category.toLowerCase().includes(name))
     return data;
 }
 
@@ -24,13 +24,17 @@ app.get('/catagories', (req,res)=> {
 })
 
 app.get('/catagories/:name', (req,res)=> {
-    const specificCatagory = req.params.name.toLowerCase()
-    const data = getSpecificCataoryResult(resource.entries, specificCatagory)
+    const searchedFor = req.params.name.toLowerCase()
+    const data = getSpecificCataoryResult(resource.entries, searchedFor)
     res.send(data)
 })
 
 app.get('/search/:name', (req,res)=> {
-    const results = resource.entries.filter((item) => item.API.toLowerCase().includes(req.params.name.toLowerCase()))
+    const searchedFor = req.params.name.toLowerCase();
+    const result1 = resource.entries.filter((item) => item.API.toLowerCase().includes(searchedFor))
+    const result2 = getSpecificCataoryResult(resource.entries, searchedFor)
+    const result3 = resource.entries.filter((item) => item.Description.toLowerCase().includes(searchedFor))
+    const results = [result1,result2, result3].flat(1)
     res.send(results)
 })
 
