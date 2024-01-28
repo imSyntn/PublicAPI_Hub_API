@@ -1,12 +1,12 @@
-# publicAPIs API
+# PublicAPI_Hub_API
 
 ## Introduction
 
-Welcome to the PublicAPIs API! This Node.js application, built with Express, serves a curated list of public APIs available across various categories. Explore different categories and discover the APIs within them.
+Welcome to the PublicAPI_Hub_API! This Node.js application, built with Express, serves a curated list of public APIs available across various categories. Explore different categories and discover the APIs within them.
 
 ## API Base URL
 
-- Base URL: https://public-apis-api-seven.vercel.app
+- Base URL: https://publicapi-hub.vercel.app/
 
 ## Technologies
 
@@ -65,7 +65,7 @@ Welcome to the PublicAPIs API! This Node.js application, built with Express, ser
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/publicAPIs-API.git
+git clone https://github.com/your-username/PublicAPI_Hub_API.git
 ```
 
 2. Install dependencies:
