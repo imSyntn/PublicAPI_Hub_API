@@ -6,7 +6,7 @@ Welcome to the PublicAPI_Hub_API! This Node.js application, built with Express, 
 
 ## API Base URL
 
-- Base URL: publicapi-hub-api.vercel.app/
+- Base URL: [publicapi-hub-api.vercel.app/](https://publicapi-hub-api.vercel.app/)
 
 ## Technologies
 
