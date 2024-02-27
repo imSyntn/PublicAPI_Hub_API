@@ -13,7 +13,7 @@
     {
         "API": "Cat Facts",
         "Description": "Daily cat facts",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://alexwohlbruck.github.io/cat-facts/",
@@ -22,7 +22,7 @@
     {
         "API": "Cataas",
         "Description": "Cat as a service (cats pictures and gifs)",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://cataas.com/",
@@ -40,7 +40,7 @@
     {
         "API": "Dog Pics",
         "Description": "Pictures of dogs based on the Stanford Dogs Dataset",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://dog.ceo/dog-api/",
@@ -49,7 +49,7 @@
     {
         "API": "Dogs",
         "Description": "Random facts and breed information about dogs",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://dogapi.dog/docs/api-v2",
@@ -67,7 +67,7 @@
     {
         "API": "FishWatch",
         "Description": "Information and pictures about individual fish species",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.fishwatch.gov/developers",
@@ -76,7 +76,7 @@
     {
         "API": "Foxes",
         "Description": "Random fox images with multiple different tags",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://foxes.cool",
@@ -85,7 +85,7 @@
     {
         "API": "HTTP Cat",
         "Description": "Cat for every HTTP Status",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://http.cat/",
@@ -94,7 +94,7 @@
     {
         "API": "HTTP Dog",
         "Description": "Dogs for every HTTP response status code",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://http.dog/",
@@ -103,7 +103,7 @@
     {
         "API": "HTTP Status Dogs",
         "Description": "Dogs for every HTTP response status code",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://httpstatusdogs.com/",
@@ -121,7 +121,7 @@
     {
         "API": "MeowFacts",
         "Description": "Get random cat facts",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/wh-iterabb-it/meowfacts",
@@ -130,7 +130,7 @@
     {
         "API": "Movebank",
         "Description": "Movement and Migration data of animals",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/movebank/movebank-api-doc",
@@ -148,7 +148,7 @@
     {
         "API": "PlaceBear",
         "Description": "Placeholder bear pictures",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://placebear.com/",
@@ -157,7 +157,7 @@
     {
         "API": "PlaceDog",
         "Description": "Placeholder Dog pictures",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://place.dog",
@@ -166,7 +166,7 @@
     {
         "API": "PlaceKitten",
         "Description": "Placeholder Kitten pictures",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://placekitten.com/",
@@ -175,7 +175,7 @@
     {
         "API": "RandomDog",
         "Description": "Random pictures of dogs",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://random.dog/woof.json",
@@ -184,7 +184,7 @@
     {
         "API": "RandomDuck",
         "Description": "Random pictures of ducks",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://random-d.uk/api",
@@ -193,7 +193,7 @@
     {
         "API": "RandomFox",
         "Description": "Random pictures of foxes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://randomfox.ca/floof/",
@@ -202,7 +202,7 @@
     {
         "API": "RescueGroups",
         "Description": "Adoption",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://userguide.rescuegroups.org/display/APIDG/API+Developers+Guide+Home",
@@ -211,7 +211,7 @@
     {
         "API": "Shibe.Online",
         "Description": "Random pictures of Shiba Inu, cats or birds",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "http://shibe.online/",
@@ -229,7 +229,7 @@
     {
         "API": "xeno-canto",
         "Description": "Bird recordings",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://xeno-canto.org/explore/api",
@@ -256,7 +256,7 @@
     {
         "API": "AnimeNewsNetwork",
         "Description": "Anime industry news",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.animenewsnetwork.com/encyclopedia/api.php",
@@ -274,7 +274,7 @@
     {
         "API": "Dattebayo API",
         "Description": "Dattebayo: Your Ultimate Naruto Anime API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://api-dattebayo.vercel.app/",
@@ -283,7 +283,7 @@
     {
         "API": "Jikan",
         "Description": "Unofficial MyAnimeList API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://jikan.moe",
@@ -337,7 +337,7 @@
     {
         "API": "NekosBest",
         "Description": "Neko Images & Anime roleplaying GIFs",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://docs.nekos.best",
@@ -355,7 +355,7 @@
     {
         "API": "Trace Moe",
         "Description": "A useful tool to get the exact scene of an anime from a screenshot",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://soruly.github.io/trace.moe-api/#/",
@@ -364,7 +364,7 @@
     {
         "API": "Waifu.im",
         "Description": "Get waifu pictures from an archive of over 4000 images and multiple tags",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://waifu.im/docs",
@@ -382,7 +382,7 @@
     {
         "API": "Waifu.pics",
         "Description": "Image sharing platform for anime images",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://waifu.pics/docs",
@@ -391,7 +391,7 @@
     {
         "API": "Wibu API",
         "Description": "Anime, Donghua, Manga, Manhua, Manhwa, J-Drama, Genshin Impact. All-in-one weebs related stuff api.",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://wibu-api.eu.org",
@@ -499,7 +499,7 @@
     {
         "API": "URLhaus",
         "Description": "Bulk queries and Download Malware Samples",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://urlhaus-api.abuse.ch/",
@@ -544,7 +544,7 @@
     {
         "API": "Art Institute of Chicago",
         "Description": "Art",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://api.artic.edu/docs/",
@@ -553,7 +553,7 @@
     {
         "API": "Colormind",
         "Description": "Color scheme generator",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://colormind.io/api-access/",
@@ -562,7 +562,7 @@
     {
         "API": "ColourLovers",
         "Description": "Get various patterns, palettes and images",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://www.colourlovers.com/api",
@@ -589,7 +589,7 @@
     {
         "API": "EmojiHub",
         "Description": "Get emojis by categories and groups",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/cheatsnake/emojihub",
@@ -616,7 +616,7 @@
     {
         "API": "Icon Horse",
         "Description": "Favicons for any website, with fallbacks",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://icon.horse/usage",
@@ -634,7 +634,7 @@
     {
         "API": "Icons8",
         "Description": "Icons (find \"search icon\" hyperlink in page)",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://img.icons8.com/",
@@ -643,7 +643,7 @@
     {
         "API": "Lordicon",
         "Description": "Icons with predone Animations",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://lordicon.com/",
@@ -652,7 +652,7 @@
     {
         "API": "Metropolitan Museum of Art",
         "Description": "Met Museum of Art",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://metmuseum.github.io/",
@@ -670,7 +670,7 @@
     {
         "API": "PHP-Noise",
         "Description": "Noise Background Image Generator",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://php-noise.com/",
@@ -679,7 +679,7 @@
     {
         "API": "Pixel Encounter",
         "Description": "SVG Icon Generator",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://pixelencounter.com/api",
@@ -697,7 +697,7 @@
     {
         "API": "The Color",
         "Description": "Swiss army knife for color",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://www.thecolorapi.com/",
@@ -715,7 +715,7 @@
     {
         "API": "xColors",
         "Description": "Generate & convert colors",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/cheatsnake/xColors-api",
@@ -814,7 +814,7 @@
     {
         "API": "Chainlink",
         "Description": "Build hybrid smart contracts with Chainlink",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://chain.link/developer-resources",
@@ -823,7 +823,7 @@
     {
         "API": "Chainpoint",
         "Description": "Chainpoint is a global network for anchoring data to the Bitcoin blockchain",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://tierion.com/chainpoint/",
@@ -850,7 +850,7 @@
     {
         "API": "Helium",
         "Description": "Helium is a global, distributed network of Hotspots that create public, long-range wireless coverage",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.helium.com/api/blockchain/introduction/",
@@ -868,7 +868,7 @@
     {
         "API": "Steem",
         "Description": "Blockchain-based blogging and social media website",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "no",
         "Link": "https://developers.steem.io/",
@@ -922,7 +922,7 @@
     {
         "API": "Bhagavad Gita telugu",
         "Description": "Bhagavad Gita API in telugu and odia languages",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://gita-api.vercel.app",
@@ -931,7 +931,7 @@
     {
         "API": "Bible-api",
         "Description": "Free Bible API with multiple languages",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://bible-api.com/",
@@ -940,7 +940,7 @@
     {
         "API": "British National Bibliography",
         "Description": "Books",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://bnb.data.bl.uk/",
@@ -949,7 +949,7 @@
     {
         "API": "Crossref Metadata Search",
         "Description": "Books & Articles Metadata",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/CrossRef/rest-api-doc",
@@ -976,7 +976,7 @@
     {
         "API": "Gutendex",
         "Description": "Web-API for fetching data from Project Gutenberg Books Library",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://gutendex.com/",
@@ -985,7 +985,7 @@
     {
         "API": "Open Library",
         "Description": "Books, book covers and related data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://openlibrary.org/developers/api",
@@ -994,7 +994,7 @@
     {
         "API": "Penguin Publishing",
         "Description": "Books, book covers and related data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "http://www.penguinrandomhouse.biz/webservices/rest/",
@@ -1003,7 +1003,7 @@
     {
         "API": "PoetryDB",
         "Description": "Enables you to get instant data from our vast poetry collection",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/thundercomb/poetrydb#readme",
@@ -1012,7 +1012,7 @@
     {
         "API": "Quran",
         "Description": "RESTful Quran API with multiple languages",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://quran.api-docs.io/",
@@ -1021,7 +1021,7 @@
     {
         "API": "Quran Cloud",
         "Description": "A RESTful Quran API to retrieve an Ayah, Surah, Juz or the entire Holy Quran",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://alquran.cloud/api",
@@ -1030,7 +1030,7 @@
     {
         "API": "Quran-api",
         "Description": "Free Quran API Service with 90+ different languages and 400+ translations",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/fawazahmed0/quran-api#readme",
@@ -1039,7 +1039,7 @@
     {
         "API": "Stephen King",
         "Description": "The varied works and characters of the prolific author Stephen King",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://stephen-king-api.onrender.com/",
@@ -1057,7 +1057,7 @@
     {
         "API": "Thirukkural",
         "Description": "1330 Thirukkural poems and explanation in Tamil and English",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://api-thirukkural.web.app/",
@@ -1066,7 +1066,7 @@
     {
         "API": "Wizard World",
         "Description": "Get information from the Harry Potter universe",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://wizard-world-api.herokuapp.com/swagger/index.html",
@@ -1075,7 +1075,7 @@
     {
         "API": "Wolne Lektury",
         "Description": "API for obtaining information about e-books available on the WolneLektury.pl website",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://wolnelektury.pl/api/",
@@ -1120,7 +1120,7 @@
     {
         "API": "Domainsdb.info",
         "Description": "Registered Domain Names Search",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://domainsdb.info/",
@@ -1183,7 +1183,7 @@
     {
         "API": "markerapi",
         "Description": "Trademark Search",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://markerapi.com",
@@ -1237,7 +1237,7 @@
     {
         "API": "Tenders in Hungary",
         "Description": "Get data for procurements in Hungary in JSON format",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://tenders.guru/hu/api",
@@ -1246,7 +1246,7 @@
     {
         "API": "Tenders in Poland",
         "Description": "Get data for procurements in Poland in JSON format",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://tenders.guru/pl/api",
@@ -1255,7 +1255,7 @@
     {
         "API": "Tenders in Romania",
         "Description": "Get data for procurements in Romania in JSON format",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://tenders.guru/ro/api",
@@ -1264,7 +1264,7 @@
     {
         "API": "Tenders in Spain",
         "Description": "Get data for procurements in Spain in JSON format",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://tenders.guru/es/api",
@@ -1273,7 +1273,7 @@
     {
         "API": "Tenders in Ukraine",
         "Description": "Get data for procurements in Ukraine in JSON format",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://tenders.guru/ua/api",
@@ -1318,7 +1318,7 @@
     {
         "API": "Church Calendar",
         "Description": "Catholic liturgical calendar",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://calapi.inadiutorium.cz/",
@@ -1327,7 +1327,7 @@
     {
         "API": "Czech Namedays Calendar",
         "Description": "Lookup for a name and returns nameday date",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://svatky.adresa.info",
@@ -1336,7 +1336,7 @@
     {
         "API": "DigiDates",
         "Description": "Various date and time calculations",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://digidates.de/en/",
@@ -1363,7 +1363,7 @@
     {
         "API": "Hebrew Calendar",
         "Description": "Convert between Gregorian and Hebrew, fetch Shabbat and Holiday times, etc",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://www.hebcal.com/home/developer-apis",
@@ -1381,7 +1381,7 @@
     {
         "API": "LectServe",
         "Description": "Protestant liturgical calendar",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://www.lectserve.com",
@@ -1390,7 +1390,7 @@
     {
         "API": "Nager.Date",
         "Description": "Public holidays for more than 90 countries",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://date.nager.at",
@@ -1399,7 +1399,7 @@
     {
         "API": "Namedays Calendar",
         "Description": "Provides namedays for multiple countries",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://nameday.abalin.net",
@@ -1408,7 +1408,7 @@
     {
         "API": "Non-Working Days",
         "Description": "Database of ICS files for non working days",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/gadael/icsdb",
@@ -1417,7 +1417,7 @@
     {
         "API": "Non-Working Days",
         "Description": "Simple REST API for checking working, non-working or short days for Russia, CIS, USA and other",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://isdayoff.ru",
@@ -1426,7 +1426,7 @@
     {
         "API": "OpenHolidays API",
         "Description": "Public and school holidays for many countries via an open REST API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.openholidaysapi.org/",
@@ -1435,7 +1435,7 @@
     {
         "API": "Orthodox Church Calendar",
         "Description": "Orthodox Church calendar",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://orthodox-calendar.org/swagger-ui/index.html?urls.primaryName=public#/public-controller/getData",
@@ -1444,7 +1444,7 @@
     {
         "API": "Russian Calendar",
         "Description": "Check if a date is a Russian holiday or not",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/egno/work-calendar",
@@ -1453,7 +1453,7 @@
     {
         "API": "UK Bank Holidays",
         "Description": "Bank holidays in England and Wales, Scotland and Northern Ireland",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.gov.uk/bank-holidays.json",
@@ -1489,7 +1489,7 @@
     {
         "API": "File.io",
         "Description": "Super simple file sharing, convenient, anonymous and secure",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.file.io",
@@ -1552,7 +1552,7 @@
     {
         "API": "Pantry",
         "Description": "Free JSON storage for small projects",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://getpantry.cloud/",
@@ -1606,7 +1606,7 @@
     {
         "API": "The Null Pointer",
         "Description": "No-bullshit file hosting and URL shortening service",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://0x0.st",
@@ -1678,7 +1678,7 @@
     {
         "API": "1inch",
         "Description": "API for querying decentralize exchange",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://1inch.io/api/",
@@ -1705,7 +1705,7 @@
     {
         "API": "Bitcambio",
         "Description": "Get the list of all traded assets in the exchange",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://nova.bitcambio.com.br/api/v3/docs#a-public",
@@ -1723,7 +1723,7 @@
     {
         "API": "BitcoinCharts",
         "Description": "Financial and Technical Data related to the Bitcoin Network",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://bitcoincharts.com/about/exchanges/",
@@ -1849,7 +1849,7 @@
     {
         "API": "CoinCap",
         "Description": "Real time Cryptocurrency prices through a RESTful API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.coincap.io/",
@@ -1867,7 +1867,7 @@
     {
         "API": "CoinDesk",
         "Description": "CoinDesk's Bitcoin Price Index (BPI) in multiple currencies",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://old.coindesk.com/coindesk-api/",
@@ -1876,7 +1876,7 @@
     {
         "API": "CoinGecko",
         "Description": "Cryptocurrency Price, Market, and Developer/Social Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "http://www.coingecko.com/api",
@@ -1903,7 +1903,7 @@
     {
         "API": "Coinlore",
         "Description": "Cryptocurrencies prices, volume and more",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.coinlore.com/cryptocurrency-data-api",
@@ -1921,7 +1921,7 @@
     {
         "API": "Coinpaprika",
         "Description": "Cryptocurrencies prices, volume and more",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://api.coinpaprika.com",
@@ -1948,7 +1948,7 @@
     {
         "API": "CoinStats",
         "Description": "Crypto Tracker",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://documenter.getpostman.com/view/5734027/RzZ6Hzr3?version=latest",
@@ -1957,7 +1957,7 @@
     {
         "API": "CryptAPI",
         "Description": "Cryptocurrency Payment Processor",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.cryptapi.io/",
@@ -1966,7 +1966,7 @@
     {
         "API": "CryptingUp",
         "Description": "Cryptocurrency data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.cryptingup.com/apidoc/#introduction",
@@ -1975,7 +1975,7 @@
     {
         "API": "CryptoCompare",
         "Description": "Cryptocurrencies Comparison",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.cryptocompare.com/api#",
@@ -1993,7 +1993,7 @@
     {
         "API": "Cryptonator",
         "Description": "Cryptocurrencies Exchange Rates",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.cryptonator.com/api/",
@@ -2047,7 +2047,7 @@
     {
         "API": "Gemini",
         "Description": "Cryptocurrencies Exchange",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.gemini.com/rest-api/",
@@ -2110,7 +2110,7 @@
     {
         "API": "Localbitcoins",
         "Description": "P2P platform to buy and sell Bitcoins",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://localbitcoins.com/api-docs/",
@@ -2119,7 +2119,7 @@
     {
         "API": "Mempool",
         "Description": "Bitcoin API Service focusing on the transaction fee",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://mempool.space/api",
@@ -2128,7 +2128,7 @@
     {
         "API": "MercadoBitcoin",
         "Description": "Brazilian Cryptocurrency Information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.mercadobitcoin.com.br/api-doc/",
@@ -2137,7 +2137,7 @@
     {
         "API": "Messari",
         "Description": "Provides API endpoints for thousands of crypto assets",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://messari.io/api",
@@ -2146,7 +2146,7 @@
     {
         "API": "Nexchange",
         "Description": "Automated cryptocurrency exchange service",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "yes",
         "Link": "https://nexchange2.docs.apiary.io/",
@@ -2200,7 +2200,7 @@
     {
         "API": "Solana JSON RPC",
         "Description": "Provides various endpoints to interact with the Solana Blockchain",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.solana.com/developing/clients/jsonrpc-api",
@@ -2227,7 +2227,7 @@
     {
         "API": "Tron Network",
         "Description": "Provides various endpoints to interact with the Tron Blockchain",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.tron.network/reference/api-key",
@@ -2254,7 +2254,7 @@
     {
         "API": "ZMOK",
         "Description": "Ethereum JSON RPC API and Web3 provider",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.zmok.io",
@@ -2281,7 +2281,7 @@
     {
         "API": "Bank of Russia",
         "Description": "Exchange rates and currency conversion",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.cbr.ru/development/SXML/",
@@ -2299,7 +2299,7 @@
     {
         "API": "Currency-api",
         "Description": "Free Currency Exchange Rates API with 150+ Currencies & No Rate Limits",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/fawazahmed0/currency-api#readme",
@@ -2326,7 +2326,7 @@
     {
         "API": "Czech National Bank",
         "Description": "A collection of exchange rates",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.xml",
@@ -2335,7 +2335,7 @@
     {
         "API": "Economia.Awesome",
         "Description": "Portuguese free currency prices and conversion with no rate limits",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.awesomeapi.com.br/api-de-moedas",
@@ -2353,7 +2353,7 @@
     {
         "API": "Exchangerate.host",
         "Description": "Free foreign exchange & crypto rates API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://exchangerate.host",
@@ -2362,7 +2362,7 @@
     {
         "API": "Frankfurter",
         "Description": "Exchange rates, currency conversion and time series",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.frankfurter.app/docs",
@@ -2380,7 +2380,7 @@
     {
         "API": "FxRatesAPI",
         "Description": "Real-time exchange rates, historical rates and currency conversion",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://fxratesapi.com/",
@@ -2407,7 +2407,7 @@
     {
         "API": "National Bank of Poland",
         "Description": "A collection of currency exchange rates (data in XML and JSON)",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "http://api.nbp.pl/en.html",
@@ -2416,7 +2416,7 @@
     {
         "API": "VATComply.com",
         "Description": "Exchange rates, geolocation and VAT number validation",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.vatcomply.com/documentation",
@@ -2425,7 +2425,7 @@
     {
         "API": "API Adresse",
         "Description": "Official French address validation service",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://adresse.data.gouv.fr/api-doc/adresse",
@@ -2443,7 +2443,7 @@
     {
         "API": "Postman Echo",
         "Description": "Test api server to receive and return value from HTTP method",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.postman-echo.com",
@@ -2452,7 +2452,7 @@
     {
         "API": "PurgoMalum",
         "Description": "Content validator against profanity & obscenity",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://www.purgomalum.com",
@@ -2497,7 +2497,7 @@
     {
         "API": "24 Pull Requests",
         "Description": "Project to promote open source collaboration during December",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://24pullrequests.com/api",
@@ -2515,7 +2515,7 @@
     {
         "API": "Agify.io",
         "Description": "Estimates the age from a first name",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://agify.io",
@@ -2524,7 +2524,7 @@
     {
         "API": "API Grátis",
         "Description": "Multiples services and public APIs",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://apigratis.com.br/",
@@ -2533,7 +2533,7 @@
     {
         "API": "ApicAgent",
         "Description": "Extract device details from user-agent string",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.apicagent.com",
@@ -2551,7 +2551,7 @@
     {
         "API": "APIs.guru",
         "Description": "Wikipedia for Web APIs, OpenAPI/Swagger specs for public APIs",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://apis.guru/api-doc/",
@@ -2569,7 +2569,7 @@
     {
         "API": "Beeceptor",
         "Description": "Build a mock Rest API endpoint in seconds",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://beeceptor.com/",
@@ -2614,7 +2614,7 @@
     {
         "API": "Bored",
         "Description": "Find random activities to fight boredom",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.boredapi.com/",
@@ -2650,7 +2650,7 @@
     {
         "API": "CDNJS",
         "Description": "Library info on CDNJS",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.cdnjs.com/libraries/jquery",
@@ -2659,7 +2659,7 @@
     {
         "API": "Changelogs.md",
         "Description": "Structured changelog metadata from open source projects",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://changelogs.md",
@@ -2668,7 +2668,7 @@
     {
         "API": "Ciprand",
         "Description": "Secure random string generator",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/polarspetroll/ciprand",
@@ -2677,7 +2677,7 @@
     {
         "API": "Cloudflare Trace",
         "Description": "Get IP Address, Timestamp, User Agent, Country Code, IATA, HTTP Version, TLS/SSL Version & More",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/fawazahmed0/cloudflare-trace-api",
@@ -2686,7 +2686,7 @@
     {
         "API": "Codex",
         "Description": "Online Compiler for Various Languages",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/Jaagrav/CodeX",
@@ -2704,7 +2704,7 @@
     {
         "API": "CORS Proxy",
         "Description": "Get around the dreaded CORS error by using this proxy as a middle man",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/burhanuday/cors-proxy",
@@ -2722,7 +2722,7 @@
     {
         "API": "DigitalOcean Status",
         "Description": "Status of all DigitalOcean services",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://status.digitalocean.com/api",
@@ -2740,7 +2740,7 @@
     {
         "API": "DomainDb Info",
         "Description": "Domain name search to find all domains containing particular words/phrases/etc",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.domainsdb.info/",
@@ -2749,7 +2749,7 @@
     {
         "API": "ExtendsClass JSON Storage",
         "Description": "A simple JSON store API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://extendsclass.com/json-storage.html",
@@ -2794,7 +2794,7 @@
     {
         "API": "Genderize.io",
         "Description": "Estimates a gender from a first name",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://genderize.io",
@@ -2947,7 +2947,7 @@
     {
         "API": "HTTP2.Pro",
         "Description": "Test endpoints for client and server HTTP/2 protocol support",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://http2.pro/doc/api",
@@ -2956,7 +2956,7 @@
     {
         "API": "Httpbin",
         "Description": "A Simple HTTP Request & Response Service",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://httpbin.org/",
@@ -2965,7 +2965,7 @@
     {
         "API": "Httpbin Cloudflare",
         "Description": "A Simple HTTP Request & Response Service with HTTP/3 Support by Cloudflare",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://cloudflare-quic.com/b/",
@@ -2992,7 +2992,7 @@
     {
         "API": "IFTTT",
         "Description": "IFTTT Connect API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://platform.ifttt.com/docs/connect_api",
@@ -3001,7 +3001,7 @@
     {
         "API": "Image-Charts",
         "Description": "Generate charts, QR codes and graph images",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://documentation.image-charts.com/",
@@ -3037,7 +3037,7 @@
     {
         "API": "IPify",
         "Description": "A simple IP Address API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.ipify.org/",
@@ -3046,7 +3046,7 @@
     {
         "API": "IPinfo",
         "Description": "Another simple IP Address API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://ipinfo.io/developers",
@@ -3055,7 +3055,7 @@
     {
         "API": "jsDelivr",
         "Description": "Package info and download stats on jsDelivr CDN",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/jsdelivr/data.jsdelivr.com",
@@ -3064,7 +3064,7 @@
     {
         "API": "JSON 2 JSONP",
         "Description": "Convert JSON to JSONP (on-the-fly) for easy cross-domain data requests using client-side JavaScript",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://json2jsonp.com/",
@@ -3091,7 +3091,7 @@
     {
         "API": "Kroki",
         "Description": "Creates diagrams from textual descriptions",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://kroki.io",
@@ -3100,7 +3100,7 @@
     {
         "API": "License-API",
         "Description": "Unofficial REST API for choosealicense.com",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/cmccandless/license-api/blob/master/README.md",
@@ -3109,7 +3109,7 @@
     {
         "API": "Lua Decompiler",
         "Description": "Online Lua 5.1 Decompiler",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://lua-decompiler.ferib.dev/",
@@ -3136,7 +3136,7 @@
     {
         "API": "MicroENV",
         "Description": "Fake Rest API for developers",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://microenv.com/",
@@ -3145,7 +3145,7 @@
     {
         "API": "Mocky",
         "Description": "Mock user defined test JSON for REST API endpoints",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://designer.mocky.io/",
@@ -3154,7 +3154,7 @@
     {
         "API": "MY IP",
         "Description": "Get IP address information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.myip.com/api-docs/",
@@ -3163,7 +3163,7 @@
     {
         "API": "Nationalize.io",
         "Description": "Estimate the nationality of a first name",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://nationalize.io",
@@ -3181,7 +3181,7 @@
     {
         "API": "NetworkCalc",
         "Description": "Network calculators, including subnets, DNS, binary, and security tools",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://networkcalc.com/api/docs",
@@ -3190,7 +3190,7 @@
     {
         "API": "npm Registry",
         "Description": "Query information about your favorite Node.js libraries programmatically",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/npm/registry/blob/master/docs/REGISTRY-API.md",
@@ -3235,7 +3235,7 @@
     {
         "API": "oyyi",
         "Description": "API for Fake Data, image/video conversion, optimization, pdf optimization and thumbnail generation",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://oyyi.xyz/docs/1.0",
@@ -3298,7 +3298,7 @@
     {
         "API": "QR code",
         "Description": "Create an easy to read QR code and URL shortener",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.qrtag.net/api/",
@@ -3307,7 +3307,7 @@
     {
         "API": "QR code",
         "Description": "Generate and decode / read QR code graphics",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://goqr.me/api/",
@@ -3325,7 +3325,7 @@
     {
         "API": "Qrcode Monkey",
         "Description": "Integrate custom and unique looking QR codes into your system or workflow",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.qrcode-monkey.com/qr-code-api-with-logo/",
@@ -3334,7 +3334,7 @@
     {
         "API": "QuickChart",
         "Description": "Generate chart and graph images",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://quickchart.io/",
@@ -3361,7 +3361,7 @@
     {
         "API": "ReqRes",
         "Description": "A hosted REST-API ready to respond to your AJAX requests",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://reqres.in/",
@@ -3370,7 +3370,7 @@
     {
         "API": "RSS feed to JSON",
         "Description": "Returns RSS feed in JSON format using feed URL",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://rss-to-json-serverless-api.vercel.app",
@@ -3379,7 +3379,7 @@
     {
         "API": "RSS to JSON",
         "Description": "Returns RSS feed in JSON format using feed URL",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/ayusharma/RSS-to-JSON",
@@ -3478,7 +3478,7 @@
     {
         "API": "Serialif Color",
         "Description": "Color conversion, complementary, grayscale and contrasted text",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://color.serialif.com/",
@@ -3487,7 +3487,7 @@
     {
         "API": "Shadify",
         "Description": "Service for generating data and executing logic to create various games and puzzles",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/cheatsnake/shadify",
@@ -3505,7 +3505,7 @@
     {
         "API": "Sonar",
         "Description": "Project Sonar DNS Enumeration API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/Cgboal/SonarSearch",
@@ -3532,7 +3532,7 @@
     {
         "API": "Statically",
         "Description": "A free CDN for developers",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://statically.io/",
@@ -3586,7 +3586,7 @@
     {
         "API": "Wandbox",
         "Description": "Code compiler supporting 35+ languages mentioned at wandbox.org",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/melpon/wandbox/blob/master/kennel/API.md",
@@ -3613,7 +3613,7 @@
     {
         "API": "Chinese Character Web",
         "Description": "Chinese character definitions and pronunciations",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "no",
         "Link": "http://ccdb.hemiola.com/",
@@ -3622,7 +3622,7 @@
     {
         "API": "Chinese Text Project",
         "Description": "Online open-access digital library for pre-modern Chinese texts",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://ctext.org/tools/api",
@@ -3640,7 +3640,7 @@
     {
         "API": "Free Dictionary",
         "Description": "Definitions, phonetics, pronounciations, parts of speech, examples, synonyms",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://dictionaryapi.dev/",
@@ -3694,7 +3694,7 @@
     {
         "API": "Wiktionary",
         "Description": "Collaborative dictionary data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://en.wiktionary.org/w/api.php",
@@ -3946,7 +3946,7 @@
     {
         "API": "Vector Express v2.0",
         "Description": "Free vector file converting API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://vector.express",
@@ -3964,7 +3964,7 @@
     {
         "API": "WakaTime",
         "Description": "Automated time tracking leaderboards for programmers",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://wakatime.com/developers",
@@ -4000,7 +4000,7 @@
     {
         "API": "Disify",
         "Description": "Validate and detect disposable and temporary email addresses",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.disify.com/",
@@ -4009,7 +4009,7 @@
     {
         "API": "DropMail",
         "Description": "GraphQL API for creating and managing ephemeral e-mail inboxes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://dropmail.me/api/#live-demo",
@@ -4027,7 +4027,7 @@
     {
         "API": "EVA",
         "Description": "Validate email addresses",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://eva.pingutil.com/",
@@ -4036,7 +4036,7 @@
     {
         "API": "Guerrilla Mail",
         "Description": "Disposable temporary Email addresses",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.guerrillamail.com/GuerrillaMailAPI.html",
@@ -4054,7 +4054,7 @@
     {
         "API": "Kickbox",
         "Description": "Email verification API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://open.kickbox.com/",
@@ -4063,7 +4063,7 @@
     {
         "API": "mail.gw",
         "Description": "10 Minute Mail",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://docs.mail.gw",
@@ -4072,7 +4072,7 @@
     {
         "API": "mail.tm",
         "Description": "Temporary Email Service",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://docs.mail.tm",
@@ -4090,7 +4090,7 @@
     {
         "API": "MailCheck.ai",
         "Description": "Prevent users to sign up with temporary email addresses",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.mailcheck.ai/#documentation",
@@ -4153,7 +4153,7 @@
     {
         "API": "chucknorris.io",
         "Description": "JSON API for hand curated Chuck Norris jokes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.chucknorris.io",
@@ -4162,7 +4162,7 @@
     {
         "API": "Corporate Buzz Words",
         "Description": "REST API for Corporate Buzz Words",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/sameerkumar18/corporate-bs-generator-api",
@@ -4171,7 +4171,7 @@
     {
         "API": "elonmu.sh",
         "Description": "Get random news article featuring Elon Musk",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://elonmu.sh/",
@@ -4180,7 +4180,7 @@
     {
         "API": "Fuck Off As A Service",
         "Description": "FOAAS (Fuck Off As A Service) provides a modern, RESTful, scalable solution to the common problem of telling people to fuck off.",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://foaas.dev/",
@@ -4189,7 +4189,7 @@
     {
         "API": "Imgflip",
         "Description": "Gets an array of popular memes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://imgflip.com/api",
@@ -4198,7 +4198,7 @@
     {
         "API": "Meme Maker",
         "Description": "REST API for create your own meme",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://mememaker.github.io/API/",
@@ -4207,7 +4207,7 @@
     {
         "API": "Official Joke",
         "Description": "API for random and programming jokes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://official-joke-api.appspot.com/",
@@ -4216,7 +4216,7 @@
     {
         "API": "Puns",
         "Description": "Puns and pun based memes. REST API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://punapi.rest/",
@@ -4225,7 +4225,7 @@
     {
         "API": "Random Dad Joke",
         "Description": "API for largest selection of dad jokes on the internet",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://icanhazdadjoke.com/",
@@ -4234,7 +4234,7 @@
     {
         "API": "Random Useless Facts",
         "Description": "Get useless, but true facts",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://uselessfacts.jsph.pl/",
@@ -4243,7 +4243,7 @@
     {
         "API": "Techy",
         "Description": "JSON and Plaintext API for tech-savvy sounding phrases",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://techy-api.vercel.app/",
@@ -4252,7 +4252,7 @@
     {
         "API": "Yo Momma Jokes",
         "Description": "REST API for Yo Momma Jokes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/beanboi7/yomomma-apiv2",
@@ -4297,7 +4297,7 @@
     {
         "API": "CO2 Offset",
         "Description": "API calculates and validates the carbon footprint",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://co2offset.io/api.html",
@@ -4306,7 +4306,7 @@
     {
         "API": "Danish data service Energi",
         "Description": "Open energy data from Energinet to society",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.energidataservice.dk/",
@@ -4315,7 +4315,7 @@
     {
         "API": "GrünstromIndex",
         "Description": "Green Power Index for Germany (Grünstromindex/GSI)",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "yes",
         "Link": "https://gruenstromindex.de/",
@@ -4333,7 +4333,7 @@
     {
         "API": "Luchtmeetnet",
         "Description": "Predicted and actual air quality components for The Netherlands (RIVM)",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api-docs.luchtmeetnet.nl/",
@@ -4342,7 +4342,7 @@
     {
         "API": "National Grid ESO",
         "Description": "Open data from Great Britain’s Electricity System Operator",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.nationalgrideso.com/",
@@ -4360,7 +4360,7 @@
     {
         "API": "PM2.5 Open Data Portal",
         "Description": "Open low-cost PM2.5 sensor data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://pm25.lass-net.org/#apis",
@@ -4405,7 +4405,7 @@
     {
         "API": "UK Carbon Intensity",
         "Description": "The Official Carbon Intensity API for Great Britain developed by National Grid",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://carbon-intensity.github.io/api-definitions/#carbon-intensity-api-v1-0-0",
@@ -4423,7 +4423,7 @@
     {
         "API": "Website Carbon",
         "Description": "API to estimate the carbon footprint of loading web pages",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.websitecarbon.com/",
@@ -4522,7 +4522,7 @@
     {
         "API": "Binlist",
         "Description": "Public access to a database of IIN/BIN information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://binlist.net/",
@@ -4549,7 +4549,7 @@
     {
         "API": "Econdb",
         "Description": "Global macroeconomic data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.econdb.com/api/",
@@ -4558,7 +4558,7 @@
     {
         "API": "Fed Treasury",
         "Description": "U.S. Department of the Treasury Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://fiscaldata.treasury.gov/api-documentation/",
@@ -4630,7 +4630,7 @@
     {
         "API": "Indian Mutual Fund",
         "Description": "Get complete history of India Mutual Funds Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.mfapi.in/",
@@ -4729,7 +4729,7 @@
     {
         "API": "Portfolio Optimizer",
         "Description": "Portfolio analysis and optimization",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://portfoliooptimizer.io/",
@@ -4738,7 +4738,7 @@
     {
         "API": "Razorpay IFSC",
         "Description": "Indian Financial Systems Code (Bank Branch Codes)",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://razorpay.com/docs/",
@@ -4765,7 +4765,7 @@
     {
         "API": "SEC EDGAR Data",
         "Description": "API to access annual reports of public US companies",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.sec.gov/edgar/sec-api-documentation",
@@ -4819,7 +4819,7 @@
     {
         "API": "WallstreetBets",
         "Description": "WallstreetBets Stock Comments Sentiment Analysis",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://dashboard.nbshare.io/apps/reddit/api/",
@@ -4846,7 +4846,7 @@
     {
         "API": "BaconMockup",
         "Description": "Resizable bacon placeholder images",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://baconmockup.com/",
@@ -4864,7 +4864,7 @@
     {
         "API": "Coffee",
         "Description": "Random pictures of coffee",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://coffee.alexflipnote.dev/",
@@ -4891,7 +4891,7 @@
     {
         "API": "Foodish",
         "Description": "Random pictures of food dishes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/surhud004/Foodish#readme",
@@ -4900,7 +4900,7 @@
     {
         "API": "Fruityvice",
         "Description": "Data about all kinds of fruit",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.fruityvice.com",
@@ -4927,7 +4927,7 @@
     {
         "API": "Open Brewery DB",
         "Description": "Breweries, Cideries and Craft Beer Bottle Shops",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.openbrewerydb.org",
@@ -4936,7 +4936,7 @@
     {
         "API": "Open Food Facts",
         "Description": "Food Products Database",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://world.openfoodfacts.org/data",
@@ -4945,7 +4945,7 @@
     {
         "API": "PunkAPI",
         "Description": "Brewdog Beer Recipes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://punkapi.com/",
@@ -4963,7 +4963,7 @@
     {
         "API": "Status Pizza",
         "Description": "Pizza for every HTTP Status",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://status.pizza",
@@ -4981,7 +4981,7 @@
     {
         "API": "TacoFancy",
         "Description": "Community-driven taco database",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://github.com/evz/tacofancy-api",
@@ -4999,7 +4999,7 @@
     {
         "API": "The Report of the Week",
         "Description": "Food & Drink Reviews",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/andyklimczak/TheReportOfTheWeek-API",
@@ -5044,7 +5044,7 @@
     {
         "API": "WhiskyHunter",
         "Description": "Past online whisky auctions statistical data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://whiskyhunter.net/api/",
@@ -5062,7 +5062,7 @@
     {
         "API": "AmiiboAPI",
         "Description": "Nintendo Amiibo Information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://amiiboapi.com/",
@@ -5071,7 +5071,7 @@
     {
         "API": "Animal Crossing: New Horizons",
         "Description": "API for critters, fossils, art, music, furniture and villagers",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://acnhapi.com/",
@@ -5080,7 +5080,7 @@
     {
         "API": "Atlas Academy",
         "Description": "API for Fate/Grand Order game data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.atlasacademy.io/docs",
@@ -5089,7 +5089,7 @@
     {
         "API": "Autochess VNG",
         "Description": "Rest Api for Autochess VNG",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/didadadida93/autochess-vng-api",
@@ -5098,7 +5098,7 @@
     {
         "API": "Barter.VG",
         "Description": "Provides information about Game, DLC, Bundles, Giveaways, Trading",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/bartervg/barter.vg/wiki",
@@ -5116,7 +5116,7 @@
     {
         "API": "Blue Archive",
         "Description": "Provides Blue Archive characters information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/arufars/api-blue-archive",
@@ -5125,7 +5125,7 @@
     {
         "API": "Board Game Geek",
         "Description": "Board games, RPG and videogames",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://boardgamegeek.com/wiki/page/BGG_XML_API2",
@@ -5143,7 +5143,7 @@
     {
         "API": "Bugsnax",
         "Description": "Get information about Bugsnax",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.bugsnaxapi.com/",
@@ -5152,7 +5152,7 @@
     {
         "API": "CheapShark",
         "Description": "Steam/PC Game Prices and Deals",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.cheapshark.com/api",
@@ -5161,7 +5161,7 @@
     {
         "API": "Chess.com",
         "Description": "Chess.com read-only REST API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.chess.com/news/view/published-data-api",
@@ -5188,7 +5188,7 @@
     {
         "API": "Comic Vine",
         "Description": "Comics",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://comicvine.gamespot.com/api/documentation",
@@ -5197,7 +5197,7 @@
     {
         "API": "Crafatar",
         "Description": "API for Minecraft skins and faces",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://crafatar.com",
@@ -5206,7 +5206,7 @@
     {
         "API": "Cross Universe",
         "Description": "Cross Universe Card Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://crossuniverse.psychpsyo.com/apiDocs.html",
@@ -5215,7 +5215,7 @@
     {
         "API": "CSGO",
         "Description": "An unofficial JSON API for Counter-Strike: Global Offensive",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://bymykel.github.io/CSGO-API/",
@@ -5224,7 +5224,7 @@
     {
         "API": "Deck of Cards",
         "Description": "Deck of Cards",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://deckofcardsapi.com/",
@@ -5242,7 +5242,7 @@
     {
         "API": "Digimon Information",
         "Description": "Provides information about digimon creatures",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://digimon-api.vercel.app/",
@@ -5251,7 +5251,7 @@
     {
         "API": "Digimon TCG",
         "Description": "Search for Digimon cards in digimoncard.io",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://documenter.getpostman.com/view/14059948/TzecB4fH",
@@ -5260,7 +5260,7 @@
     {
         "API": "Disney",
         "Description": "Information of Disney characters",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://disneyapi.dev",
@@ -5278,7 +5278,7 @@
     {
         "API": "Dungeons and Dragons",
         "Description": "Reference for 5th edition spells, classes, monsters, and more",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "no",
         "Link": "https://www.dnd5eapi.co/docs/",
@@ -5287,7 +5287,7 @@
     {
         "API": "Dungeons and Dragons (Alternate)",
         "Description": "Includes all monsters and spells from the SRD (System Reference Document) as well as a search API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://open5e.com/",
@@ -5305,7 +5305,7 @@
     {
         "API": "FFXIV Collect",
         "Description": "Final Fantasy XIV data on collectables",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://ffxivcollect.com/",
@@ -5314,7 +5314,7 @@
     {
         "API": "FIFA Ultimate Team",
         "Description": "FIFA Ultimate Team items API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.easports.com/fifa/ultimate-team/api/fut/item",
@@ -5323,7 +5323,7 @@
     {
         "API": "Final Fantasy XIV",
         "Description": "Final Fantasy XIV Game data API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://xivapi.com/",
@@ -5341,7 +5341,7 @@
     {
         "API": "FreeToGame",
         "Description": "Free-To-Play Games Database",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.freetogame.com/api-doc",
@@ -5350,7 +5350,7 @@
     {
         "API": "FunTranslations",
         "Description": "Translate Text into funny languages",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://api.funtranslations.com/",
@@ -5359,7 +5359,7 @@
     {
         "API": "GamerPower",
         "Description": "Game Giveaways Tracker",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.gamerpower.com/api-read",
@@ -5368,7 +5368,7 @@
     {
         "API": "Geek-Jokes",
         "Description": "Fetch a random geeky/programming related joke for use in all sorts of applications",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/sameerkumar18/geek-joke-api",
@@ -5377,7 +5377,7 @@
     {
         "API": "Genshin Impact",
         "Description": "Genshin Impact game data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://genshin.dev",
@@ -5395,7 +5395,7 @@
     {
         "API": "GraphQL Pokemon",
         "Description": "GraphQL powered Pokemon API. Supports generations 1 through 8",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/favware/graphql-pokemon",
@@ -5413,7 +5413,7 @@
     {
         "API": "GW2Spidy",
         "Description": "GW2Spidy API, Items data on the Guild Wars 2 Trade Market",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/rubensayshi/gw2spidy/wiki",
@@ -5467,7 +5467,7 @@
     {
         "API": "Hyrule Compendium",
         "Description": "Data on all interactive items from The Legend of Zelda: BOTW",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/gadhagod/Hyrule-Compendium-API",
@@ -5476,7 +5476,7 @@
     {
         "API": "Hytale",
         "Description": "Hytale blog posts and jobs",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://hytale-api.com/",
@@ -5494,7 +5494,7 @@
     {
         "API": "Italian Jokes",
         "Description": "JSON API for getting jokes about Italians",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://italian-jokes.vercel.app/",
@@ -5503,7 +5503,7 @@
     {
         "API": "JokeAPI",
         "Description": "Programming, Miscellaneous and Dark Jokes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://sv443.net/jokeapi/v2/",
@@ -5521,7 +5521,7 @@
     {
         "API": "Jservice",
         "Description": "Jeopardy Question Database",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://jservice.io",
@@ -5539,7 +5539,7 @@
     {
         "API": "Magic The Gathering",
         "Description": "Magic The Gathering Game Information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://magicthegathering.io/",
@@ -5557,7 +5557,7 @@
     {
         "API": "Minecraft Server Status",
         "Description": "API to get Information about a Minecraft Server",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://api.mcsrvstat.us",
@@ -5566,7 +5566,7 @@
     {
         "API": "MMO Games",
         "Description": "MMO Games Database, News and Giveaways",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://www.mmobomb.com/api",
@@ -5593,7 +5593,7 @@
     {
         "API": "Monster Hunter World",
         "Description": "Monster Hunter World data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://docs.mhw-db.com/",
@@ -5602,7 +5602,7 @@
     {
         "API": "moogleAPI",
         "Description": "Final Fantasy franchise data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.moogleapi.com/",
@@ -5611,7 +5611,7 @@
     {
         "API": "Open Trivia",
         "Description": "Trivia Questions",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://opentdb.com/api_config.php",
@@ -5638,7 +5638,7 @@
     {
         "API": "PlayerDB",
         "Description": "Query Minecraft, Steam and XBox Accounts",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://playerdb.co/",
@@ -5647,7 +5647,7 @@
     {
         "API": "Pokéapi",
         "Description": "Pokémon Information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://pokeapi.co",
@@ -5656,7 +5656,7 @@
     {
         "API": "PokéAPI (GraphQL)",
         "Description": "The Unofficial GraphQL for PokeAPI",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/mazipan/graphql-pokeapi",
@@ -5665,7 +5665,7 @@
     {
         "API": "Pokémon TCG",
         "Description": "Pokémon TCG Information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://pokemontcg.io",
@@ -5674,7 +5674,7 @@
     {
         "API": "Psychonauts",
         "Description": "Psychonauts World Characters Information and PSI Powers",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://psychonauts-api.netlify.app/",
@@ -5692,7 +5692,7 @@
     {
         "API": "Puyo Nexus",
         "Description": "Puyo Puyo information from Puyo Nexus Wiki",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/deltadex7/puyodb-api-deno",
@@ -5710,7 +5710,7 @@
     {
         "API": "Raider",
         "Description": "Provides detailed character and guild rankings for Raiding and Mythic+ content in World of Warcraft",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://raider.io/api",
@@ -5728,7 +5728,7 @@
     {
         "API": "Rick and Morty",
         "Description": "All the Rick and Morty information, including images",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://rickandmortyapi.com",
@@ -5746,7 +5746,7 @@
     {
         "API": "RPS 101",
         "Description": "Rock, Paper, Scissors with 101 objects",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://rps101.pythonanywhere.com/api",
@@ -5755,7 +5755,7 @@
     {
         "API": "RuneScape",
         "Description": "RuneScape and OSRS RPGs information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://runescape.wiki/w/Application_programming_interface",
@@ -5764,7 +5764,7 @@
     {
         "API": "Sakura CardCaptor",
         "Description": "Sakura CardCaptor Cards Information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/JessVel/sakura-card-captor-api",
@@ -5773,7 +5773,7 @@
     {
         "API": "Scryfall",
         "Description": "Magic: The Gathering database",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://scryfall.com/docs/api",
@@ -5800,7 +5800,7 @@
     {
         "API": "Steam",
         "Description": "Internal Steam Web API documentation",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/Revadike/InternalSteamWebAPI/wiki",
@@ -5809,7 +5809,7 @@
     {
         "API": "TCGdex",
         "Description": "Multi languages Pokémon TCG Information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.tcgdex.net/docs",
@@ -5827,7 +5827,7 @@
     {
         "API": "TETR.IO",
         "Description": "TETR.IO Tetra Channel API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://tetr.io/about/api/",
@@ -5836,7 +5836,7 @@
     {
         "API": "Tronald Dump",
         "Description": "The dumbest things Donald Trump has ever said",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.tronalddump.io/",
@@ -5845,7 +5845,7 @@
     {
         "API": "Universalis",
         "Description": "Final Fantasy XIV market board data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://universalis.app/docs/index.html",
@@ -5854,7 +5854,7 @@
     {
         "API": "Valorant (non-official)",
         "Description": "An extensive API containing data of most Valorant in-game items, assets and more",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://valorant-api.com",
@@ -5863,7 +5863,7 @@
     {
         "API": "Warface (non-official)",
         "Description": "Official API proxy with better data structure and more features",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://api.wfstats.cf",
@@ -5881,7 +5881,7 @@
     {
         "API": "When is next MCU film",
         "Description": "Upcoming MCU film information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/DiljotSG/MCU-Countdown/blob/develop/docs/API.md",
@@ -5890,7 +5890,7 @@
     {
         "API": "xkcd",
         "Description": "Retrieve xkcd comics as JSON",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://xkcd.com/json.html",
@@ -5899,7 +5899,7 @@
     {
         "API": "Yu-Gi-Oh!",
         "Description": "Yu-Gi-Oh! TCG Information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://db.ygoprodeck.com/api-guide/",
@@ -5908,7 +5908,7 @@
     {
         "API": "Zelda",
         "Description": "The Legend of Zelda franchise data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.zelda.fanapis.com/docs",
@@ -5935,7 +5935,7 @@
     {
         "API": "administrative-divisons-db",
         "Description": "Get all administrative divisions of a country",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/kamikazechaser/administrative-divisions-db",
@@ -5944,7 +5944,7 @@
     {
         "API": "adresse.data.gouv.fr",
         "Description": "Address database of France, geocoding and reverse",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://adresse.data.gouv.fr",
@@ -5953,7 +5953,7 @@
     {
         "API": "Airtel IP",
         "Description": "IP Geolocation API. Collecting data from multiple sources",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://sys.airtel.lv/ip2country/1.1.1.1/?full=true",
@@ -6025,7 +6025,7 @@
     {
         "API": "BigDataCloud's Free API",
         "Description": "Get free client-side reverse geocoding API and Client Info API. No account creation and API key required.",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.bigdatacloud.com//free-api",
@@ -6043,7 +6043,7 @@
     {
         "API": "bng2latlong",
         "Description": "Convert British OSGB36 easting and northing (British National Grid) to WGS84 latitude and longitude",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.getthedata.com/bng2latlong",
@@ -6052,7 +6052,7 @@
     {
         "API": "Cartes.io",
         "Description": "Create maps and markers for anything",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/M-Media-Group/Cartes.io/wiki/API",
@@ -6061,7 +6061,7 @@
     {
         "API": "Cep.la",
         "Description": "Brazil RESTful API to find information about streets, zip codes, neighborhoods, cities and states",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://cep.la/",
@@ -6070,7 +6070,7 @@
     {
         "API": "CitySDK",
         "Description": "Open APIs for select European cities",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://www.citysdk.eu/citysdk-toolkit/",
@@ -6079,7 +6079,7 @@
     {
         "API": "Country",
         "Description": "Get your visitor's country from their IP",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "http://country.is/",
@@ -6097,7 +6097,7 @@
     {
         "API": "Ducks Unlimited",
         "Description": "API explorer that gives a query URL with a JSON response of locations and cities",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://gis.ducks.org/datasets/du-university-chapters/api",
@@ -6106,7 +6106,7 @@
     {
         "API": "FreeGeoIP",
         "Description": "Free geo ip information, no registration required. 15k/hour rate limit",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://freegeoip.app/",
@@ -6115,7 +6115,7 @@
     {
         "API": "GeoApi",
         "Description": "French geographical data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.gouv.fr/api/geoapi.html",
@@ -6142,7 +6142,7 @@
     {
         "API": "Geocode.xyz",
         "Description": "Provides worldwide forward/reverse geocoding, batch geocoding and geoparsing",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://geocode.xyz/api",
@@ -6160,7 +6160,7 @@
     {
         "API": "Geodata.gov.gr",
         "Description": "Open geospatial data and API service for Greece",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://geodata.gov.gr/en/",
@@ -6187,7 +6187,7 @@
     {
         "API": "GeographQL",
         "Description": "A Country, State, and City GraphQL API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://geographql.netlify.app",
@@ -6196,7 +6196,7 @@
     {
         "API": "GeoJS",
         "Description": "IP geolocation with ChatOps integration",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.geojs.io/",
@@ -6205,7 +6205,7 @@
     {
         "API": "Geokeo",
         "Description": "Geokeo geocoding service- with 2500 free api requests daily",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://geokeo.com",
@@ -6214,7 +6214,7 @@
     {
         "API": "GeoNames",
         "Description": "Place names and other geographical data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://www.geonames.org/export/web-services.html",
@@ -6223,7 +6223,7 @@
     {
         "API": "geoPlugin",
         "Description": "IP geolocation and currency conversion",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.geoplugin.com",
@@ -6250,7 +6250,7 @@
     {
         "API": "Graph Countries",
         "Description": "Country-related data like currencies, languages, flags, regions+subregions and bordering countries",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/lennertVanSever/graphcountries",
@@ -6259,7 +6259,7 @@
     {
         "API": "HelloSalut",
         "Description": "Get hello translation following user language",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://fourtonfish.com/project/hellosalut-api/",
@@ -6277,7 +6277,7 @@
     {
         "API": "Hong Kong GeoData Store",
         "Description": "API for accessing geo-data of Hong Kong",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://geodata.gov.hk/gs/",
@@ -6286,7 +6286,7 @@
     {
         "API": "IBGE",
         "Description": "Aggregate services of IBGE (Brazilian Institute of Geography and Statistics)",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://servicodados.ibge.gov.br/api/docs/",
@@ -6295,7 +6295,7 @@
     {
         "API": "IP 2 Country",
         "Description": "Map an IP to a country",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://ip2country.info",
@@ -6304,7 +6304,7 @@
     {
         "API": "IP Address Details",
         "Description": "Find geolocation with ip address",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://ipinfo.io/",
@@ -6313,7 +6313,7 @@
     {
         "API": "IP Vigilante",
         "Description": "Free IP Geolocation API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.ipvigilante.com/",
@@ -6322,7 +6322,7 @@
     {
         "API": "ip-api",
         "Description": "Find location with IP address or domain",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://ip-api.com/docs",
@@ -6358,7 +6358,7 @@
     {
         "API": "ipapi.co",
         "Description": "Find IP address location information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://ipapi.co/api/#introduction",
@@ -6367,7 +6367,7 @@
     {
         "API": "IPGEO",
         "Description": "Unlimited free IP Address API with useful information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.techniknews.net/ipgeo/",
@@ -6448,7 +6448,7 @@
     {
         "API": "Mexico",
         "Description": "Mexico RESTful zip codes API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/IcaliaLabs/sepomex",
@@ -6457,7 +6457,7 @@
     {
         "API": "Nominatim",
         "Description": "Provides worldwide forward / reverse geocoding",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://nominatim.org/release-docs/latest/api/Overview/",
@@ -6475,7 +6475,7 @@
     {
         "API": "OnWater",
         "Description": "Determine if a lat/lon is on water or land",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://onwater.io/",
@@ -6484,7 +6484,7 @@
     {
         "API": "Open Topo Data",
         "Description": "Elevation and ocean depth for a latitude and longitude",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://www.opentopodata.org",
@@ -6520,7 +6520,7 @@
     {
         "API": "Pinball Map",
         "Description": "A crowdsourced map of public pinball machines",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://pinballmap.com/api/v1/docs",
@@ -6529,7 +6529,7 @@
     {
         "API": "Postali",
         "Description": "Mexico Zip Codes API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://postali.app/api",
@@ -6538,7 +6538,7 @@
     {
         "API": "PostcodeData.nl",
         "Description": "Provide geolocation data based on postcode for Dutch addresses",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://api.postcodedata.nl/v1/postcode/?postcode=1211EP&streetnumber=60&ref=domeinnaam.nl&type=json",
@@ -6547,7 +6547,7 @@
     {
         "API": "Postcodes.io",
         "Description": "Postcode lookup & Geolocation for the UK",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://postcodes.io",
@@ -6565,7 +6565,7 @@
     {
         "API": "Queimadas INPE",
         "Description": "Access to heat focus data (probable wildfire)",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://queimadas.dgi.inpe.br/queimadas/dados-abertos/",
@@ -6574,7 +6574,7 @@
     {
         "API": "REST Countries",
         "Description": "Get information about countries via a RESTful API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://restcountries.com",
@@ -6592,7 +6592,7 @@
     {
         "API": "Rwanda Locations",
         "Description": "Rwanda Provinces, Districts, Cities, Capital City, Sector, cells, villages and streets",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://rapidapi.com/victorkarangwa4/api/rwanda",
@@ -6601,7 +6601,7 @@
     {
         "API": "SLF",
         "Description": "German city, country, river, database",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/slftool/slftool.github.io/blob/master/API.md",
@@ -6664,7 +6664,7 @@
     {
         "API": "ViaCep",
         "Description": "Brazil RESTful zip codes API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://viacep.com.br",
@@ -6700,7 +6700,7 @@
     {
         "API": "Zippopotam.us",
         "Description": "Get information about place such as country, city, state, etc",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://www.zippopotam.us",
@@ -6709,7 +6709,7 @@
     {
         "API": "Ziptastic",
         "Description": "Get the country, state, and city of any US zip-code",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://ziptasticapi.com/",
@@ -6727,7 +6727,7 @@
     {
         "API": "Bank Negara Malaysia Open Data",
         "Description": "Malaysia Central Bank Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://apikijangportal.bnm.gov.my/",
@@ -6736,7 +6736,7 @@
     {
         "API": "BCLaws",
         "Description": "Access to the laws of British Columbia",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://www.bclaws.gov.bc.ca/civix/template/complete/api/index.html",
@@ -6745,7 +6745,7 @@
     {
         "API": "Brazil",
         "Description": "Community driven API for Brazil Public Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://brasilapi.com.br/",
@@ -6754,7 +6754,7 @@
     {
         "API": "Brazil Central Bank Open Data",
         "Description": "Brazil Central Bank Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://dadosabertos.bcb.gov.br/",
@@ -6763,7 +6763,7 @@
     {
         "API": "Brazil Receita WS",
         "Description": "Consult companies by CNPJ for Brazilian companies",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.receitaws.com.br/",
@@ -6772,7 +6772,7 @@
     {
         "API": "Brazilian Chamber of Deputies Open Data",
         "Description": "Provides legislative information in Apis XML and JSON, as well as files in various formats",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://dadosabertos.camara.leg.br/swagger/api.html",
@@ -6781,7 +6781,7 @@
     {
         "API": "Census.gov",
         "Description": "The US Census Bureau provides various APIs and data sets on demographics and businesses",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.census.gov/data/developers/data-sets.html",
@@ -6790,7 +6790,7 @@
     {
         "API": "City, Berlin",
         "Description": "Berlin(DE) City Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://daten.berlin.de/",
@@ -6799,7 +6799,7 @@
     {
         "API": "City, Gdańsk",
         "Description": "Gdańsk (PL) City Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://ckan.multimediagdansk.pl/en",
@@ -6808,7 +6808,7 @@
     {
         "API": "City, Gdynia",
         "Description": "Gdynia (PL) City Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://otwartedane.gdynia.pl/en/api_doc.html",
@@ -6817,7 +6817,7 @@
     {
         "API": "City, Helsinki",
         "Description": "Helsinki(FI) City Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://hri.fi/en_gb/",
@@ -6826,7 +6826,7 @@
     {
         "API": "City, Lviv",
         "Description": "Lviv(UA) City Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://opendata.city-adm.lviv.ua/",
@@ -6844,7 +6844,7 @@
     {
         "API": "City, New York Open Data",
         "Description": "New York (US) City Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://opendata.cityofnewyork.us/",
@@ -6853,7 +6853,7 @@
     {
         "API": "City, Prague Open Data",
         "Description": "Prague(CZ) City Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://opendata.praha.eu/en",
@@ -6862,7 +6862,7 @@
     {
         "API": "City, Toronto Open Data",
         "Description": "Toronto (CA) City Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://open.toronto.ca/",
@@ -6880,7 +6880,7 @@
     {
         "API": "Colorado Information Marketplace",
         "Description": "Colorado State Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.colorado.gov/",
@@ -6889,7 +6889,7 @@
     {
         "API": "Data USA",
         "Description": "US Public Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://datausa.io/about/api/",
@@ -6907,7 +6907,7 @@
     {
         "API": "Data.parliament.uk",
         "Description": "Contains live datasets including information about petitions, bills, MP votes, attendance and more",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://explore.data.parliament.uk/?learnmore=Members",
@@ -6925,7 +6925,7 @@
     {
         "API": "District of Columbia Open Data",
         "Description": "Contains D.C. government public datasets, including crime, GIS, financial data, and so on",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://opendata.dc.gov/pages/using-apis",
@@ -6934,7 +6934,7 @@
     {
         "API": "EPA",
         "Description": "Web services and data sets from the US Environmental Protection Agency",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.epa.gov/developers/data-data-products#apis",
@@ -6943,7 +6943,7 @@
     {
         "API": "FBI Wanted",
         "Description": "Access information on the FBI Wanted program",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.fbi.gov/wanted/api",
@@ -6961,7 +6961,7 @@
     {
         "API": "Federal Register",
         "Description": "The Daily Journal of the United States Government",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.federalregister.gov/reader-aids/developer-resources/rest-api",
@@ -6970,7 +6970,7 @@
     {
         "API": "Food Standards Agency",
         "Description": "UK food hygiene rating data API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://ratings.food.gov.uk/open-data/en-GB",
@@ -6997,7 +6997,7 @@
     {
         "API": "INEI",
         "Description": "Peruvian Statistical Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://iinei.inei.gob.pe/microdatos/",
@@ -7006,7 +7006,7 @@
     {
         "API": "Interpol Red Notices",
         "Description": "Access and search Interpol Red Notices",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://interpol.api.bund.dev/",
@@ -7015,7 +7015,7 @@
     {
         "API": "Istanbul (İBB) Open Data",
         "Description": "Data sets from the İstanbul Metropolitan Municipality (İBB)",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.ibb.gov.tr",
@@ -7033,7 +7033,7 @@
     {
         "API": "Open Government, ACT",
         "Description": "Australian Capital Territory Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.data.act.gov.au/",
@@ -7042,7 +7042,7 @@
     {
         "API": "Open Government, Argentina",
         "Description": "Argentina Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://datos.gob.ar/",
@@ -7051,7 +7051,7 @@
     {
         "API": "Open Government, Australia",
         "Description": "Australian Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.data.gov.au/",
@@ -7060,7 +7060,7 @@
     {
         "API": "Open Government, Austria",
         "Description": "Austria Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.data.gv.at/",
@@ -7069,7 +7069,7 @@
     {
         "API": "Open Government, Belgium",
         "Description": "Belgium Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.gov.be/",
@@ -7078,7 +7078,7 @@
     {
         "API": "Open Government, Canada",
         "Description": "Canadian Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://open.canada.ca/en",
@@ -7087,7 +7087,7 @@
     {
         "API": "Open Government, Colombia",
         "Description": "Colombia Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://www.dane.gov.co/",
@@ -7096,7 +7096,7 @@
     {
         "API": "Open Government, Cyprus",
         "Description": "Cyprus Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.gov.cy/?language=en",
@@ -7105,7 +7105,7 @@
     {
         "API": "Open Government, Czech Republic",
         "Description": "Czech Republic Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.gov.cz/english/",
@@ -7114,7 +7114,7 @@
     {
         "API": "Open Government, Denmark",
         "Description": "Denmark Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.opendata.dk/",
@@ -7132,7 +7132,7 @@
     {
         "API": "Open Government, Finland",
         "Description": "Finland Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.avoindata.fi/en",
@@ -7150,7 +7150,7 @@
     {
         "API": "Open Government, Germany",
         "Description": "Germany Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.govdata.de/daten/-/details/govdata-metadatenkatalog",
@@ -7177,7 +7177,7 @@
     {
         "API": "Open Government, Ireland",
         "Description": "Ireland Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.gov.ie/pages/developers",
@@ -7186,7 +7186,7 @@
     {
         "API": "Open Government, Italy",
         "Description": "Italy Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.dati.gov.it/",
@@ -7204,7 +7204,7 @@
     {
         "API": "Open Government, Lithuania",
         "Description": "Lithuania Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.gov.lt/public/api/1",
@@ -7222,7 +7222,7 @@
     {
         "API": "Open Government, Mexico",
         "Description": "Mexican Statistical Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.inegi.org.mx/datos/",
@@ -7231,7 +7231,7 @@
     {
         "API": "Open Government, Mexico",
         "Description": "Mexico Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://datos.gob.mx/",
@@ -7240,7 +7240,7 @@
     {
         "API": "Open Government, Netherlands",
         "Description": "Netherlands Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.overheid.nl/en/ondersteuning/data-publiceren/api",
@@ -7258,7 +7258,7 @@
     {
         "API": "Open Government, New Zealand",
         "Description": "New Zealand Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.data.govt.nz/",
@@ -7267,7 +7267,7 @@
     {
         "API": "Open Government, Norway",
         "Description": "Norwegian Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://data.norge.no/dataservices",
@@ -7276,7 +7276,7 @@
     {
         "API": "Open Government, Peru",
         "Description": "Peru Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.datosabiertos.gob.pe/",
@@ -7285,7 +7285,7 @@
     {
         "API": "Open Government, Poland",
         "Description": "Poland Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://dane.gov.pl/en",
@@ -7303,7 +7303,7 @@
     {
         "API": "Open Government, Queensland Government",
         "Description": "Queensland Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.data.qld.gov.au/",
@@ -7312,7 +7312,7 @@
     {
         "API": "Open Government, Romania",
         "Description": "Romania Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://data.gov.ro/",
@@ -7321,7 +7321,7 @@
     {
         "API": "Open Government, Saudi Arabia",
         "Description": "Saudi Arabia Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.gov.sa",
@@ -7330,7 +7330,7 @@
     {
         "API": "Open Government, Singapore",
         "Description": "Singapore Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.gov.sg/developer",
@@ -7339,7 +7339,7 @@
     {
         "API": "Open Government, Slovakia",
         "Description": "Slovakia Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.gov.sk/en/",
@@ -7348,7 +7348,7 @@
     {
         "API": "Open Government, Slovenia",
         "Description": "Slovenia Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://podatki.gov.si/",
@@ -7357,7 +7357,7 @@
     {
         "API": "Open Government, South Australian Government",
         "Description": "South Australian Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.sa.gov.au/",
@@ -7366,7 +7366,7 @@
     {
         "API": "Open Government, Spain",
         "Description": "Spain Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://datos.gob.es/en",
@@ -7375,7 +7375,7 @@
     {
         "API": "Open Government, Sweden",
         "Description": "Sweden Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.dataportal.se/en/dataservice/91_29789/api-for-the-statistical-database",
@@ -7384,7 +7384,7 @@
     {
         "API": "Open Government, Switzerland",
         "Description": "Switzerland Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html",
@@ -7393,7 +7393,7 @@
     {
         "API": "Open Government, Taiwan",
         "Description": "Taiwan Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.gov.tw/",
@@ -7411,7 +7411,7 @@
     {
         "API": "Open Government, UK",
         "Description": "UK Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.gov.uk/",
@@ -7420,7 +7420,7 @@
     {
         "API": "Open Government, USA",
         "Description": "United States Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.data.gov/",
@@ -7429,7 +7429,7 @@
     {
         "API": "Open Government, Victoria State Government",
         "Description": "Victoria State Government Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.data.vic.gov.au/",
@@ -7438,7 +7438,7 @@
     {
         "API": "Open Government, West Australia",
         "Description": "West Australia Open Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.wa.gov.au/",
@@ -7447,7 +7447,7 @@
     {
         "API": "PRC Exam Schedule",
         "Description": "Unofficial Philippine Professional Regulation Commission's examination schedule",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://api.whenisthenextboardexam.com/docs/",
@@ -7456,7 +7456,7 @@
     {
         "API": "Represent by Open North",
         "Description": "Find Canadian Government Representatives",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://represent.opennorth.ca/",
@@ -7474,7 +7474,7 @@
     {
         "API": "US Presidential Election Data by TogaTech",
         "Description": "Basic candidate data and live electoral vote counts for top two parties in US presidential election",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://uselection.togatech.org/api/",
@@ -7492,7 +7492,7 @@
     {
         "API": "USAspending.gov",
         "Description": "US federal spending data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.usaspending.gov/",
@@ -7510,7 +7510,7 @@
     {
         "API": "Coronavirus in the UK",
         "Description": "UK Government coronavirus data, including deaths and cases by region",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://coronavirus.data.gov.uk/details/developers-guide",
@@ -7519,7 +7519,7 @@
     {
         "API": "Covid Tracking Project",
         "Description": "Covid-19 data for the US",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://covidtracking.com/data/api/version-2",
@@ -7528,7 +7528,7 @@
     {
         "API": "Covid-19",
         "Description": "Covid 19 cases, deaths and recovery per country",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/M-Media-Group/Covid-19-API",
@@ -7537,7 +7537,7 @@
     {
         "API": "Covid-19 Datenhub",
         "Description": "Maps, datasets, applications and more in the context of COVID-19",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://npgeo-corona-npgeo-de.hub.arcgis.com",
@@ -7546,7 +7546,7 @@
     {
         "API": "Covid-19 Government Response",
         "Description": "Government measures tracker to fight against the Covid-19 pandemic",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://covidtracker.bsg.ox.ac.uk",
@@ -7555,7 +7555,7 @@
     {
         "API": "Covid-19 India",
         "Description": "Covid 19 statistics state and district wise about cases, vaccinations, recovery within India",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.covid19india.org/",
@@ -7564,7 +7564,7 @@
     {
         "API": "Covid-19 JHU CSSE",
         "Description": "Open-source API for exploring Covid19 cases based on JHU CSSE",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://nuttaphat.com/covid19-api/",
@@ -7573,7 +7573,7 @@
     {
         "API": "Covid-19 Live Data",
         "Description": "Global and countrywise data of Covid 19 daily Summary, confirmed cases, recovered and deaths",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/mathdroid/covid-19-api",
@@ -7582,7 +7582,7 @@
     {
         "API": "Covid-19 Philippines",
         "Description": "Unofficial Covid-19 Web API for Philippines from data collected by DOH",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/Simperfy/Covid-19-API-Philippines-DOH",
@@ -7591,7 +7591,7 @@
     {
         "API": "COVID-19 Tracker Canada",
         "Description": "Details on Covid-19 cases across Canada",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.covid19tracker.ca/docs/1.0/overview",
@@ -7600,7 +7600,7 @@
     {
         "API": "COVID-19 Tracker Sri Lanka",
         "Description": "Provides situation of the COVID-19 patients reported in Sri Lanka",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.hpb.health.gov.lk/en/api-documentation",
@@ -7609,7 +7609,7 @@
     {
         "API": "COVID-ID",
         "Description": "Indonesian government Covid data per province",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://data.covid19.go.id/public/api/prov.json",
@@ -7618,7 +7618,7 @@
     {
         "API": "Dataflow Kit COVID-19",
         "Description": "COVID-19 live statistics into sites per hour",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://covid-19.dataflowkit.com",
@@ -7636,7 +7636,7 @@
     {
         "API": "Healthcare.gov",
         "Description": "Educational content about the US Health Insurance Marketplace",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.healthcare.gov/developers/",
@@ -7645,7 +7645,7 @@
     {
         "API": "Humanitarian Data Exchange",
         "Description": "Humanitarian Data Exchange (HDX) is open platform for sharing data across crises and organisations",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.humdata.org/",
@@ -7663,7 +7663,7 @@
     {
         "API": "LAPIS",
         "Description": "SARS-CoV-2 genomic sequences from public sources",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://cov-spectrum.ethz.ch/public",
@@ -7681,7 +7681,7 @@
     {
         "API": "Makeup",
         "Description": "Makeup Information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://makeup-api.herokuapp.com/",
@@ -7690,7 +7690,7 @@
     {
         "API": "MyVaccination",
         "Description": "Vaccination data for Malaysia",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://documenter.getpostman.com/view/16605343/Tzm8GG7u",
@@ -7699,7 +7699,7 @@
     {
         "API": "NPPES",
         "Description": "National Plan & Provider Enumeration System, info on healthcare providers registered in US",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://npiregistry.cms.hhs.gov/registry/help-api",
@@ -7717,7 +7717,7 @@
     {
         "API": "Open Data NHS Scotland",
         "Description": "Medical reference data and statistics by Public Health Scotland",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.opendata.nhs.scot",
@@ -7726,7 +7726,7 @@
     {
         "API": "Open Disease",
         "Description": "API for Current cases and more stuff about COVID-19 and Influenza",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://disease.sh/",
@@ -7753,7 +7753,7 @@
     {
         "API": "Arbeitnow",
         "Description": "API for Job board aggregator in Europe / Remote",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://documenter.getpostman.com/view/18545278/UVJbJdKh",
@@ -7780,7 +7780,7 @@
     {
         "API": "DevITjobs UK",
         "Description": "Jobs with GraphQL",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://devitjobs.uk/job_feed.xml",
@@ -7798,7 +7798,7 @@
     {
         "API": "GraphQL Jobs",
         "Description": "Jobs with GraphQL",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://graphql.jobs/docs/api/",
@@ -7834,7 +7834,7 @@
     {
         "API": "Open Skills",
         "Description": "Job titles, skills and related jobs data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://github.com/workforce-data-initiative/skills-api/wiki/API-Overview",
@@ -7942,7 +7942,7 @@
     {
         "API": "EXUDE-API",
         "Description": "Used for the primary ways for filtering the stopping, stemming words from the text data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "http://uttesh.com/exude-api/",
@@ -8032,7 +8032,7 @@
     {
         "API": "OpenVisionAPI",
         "Description": "Open source computer vision API based on open source models",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://openvisionapi.com",
@@ -8122,7 +8122,7 @@
     {
         "API": "Bandsintown",
         "Description": "Music Events",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://app.swaggerhub.com/apis/Bandsintown/PublicAPI/3.0.0",
@@ -8158,7 +8158,7 @@
     {
         "API": "Gaana",
         "Description": "API to retrieve song information from Gaana",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/cyberboysumanjay/GaanaAPI",
@@ -8176,7 +8176,7 @@
     {
         "API": "Genrenator",
         "Description": "Music genre generator",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://binaryjazz.us/genrenator-api/",
@@ -8185,7 +8185,7 @@
     {
         "API": "iTunes Search",
         "Description": "Software products",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/",
@@ -8203,7 +8203,7 @@
     {
         "API": "JioSaavn",
         "Description": "API to retrieve song information, album meta data and many more from JioSaavn",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/cyberboysumanjay/JioSaavnAPI",
@@ -8248,7 +8248,7 @@
     {
         "API": "MusicBrainz",
         "Description": "Music",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://musicbrainz.org/doc/Development/XML_Web_Service/Version_2",
@@ -8275,7 +8275,7 @@
     {
         "API": "Openwhyd",
         "Description": "Download curated playlists of streaming tracks (YouTube, SoundCloud, etc...)",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://openwhyd.github.io/openwhyd/API",
@@ -8293,7 +8293,7 @@
     {
         "API": "Radio Browser",
         "Description": "List of internet radio stations",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://api.radio-browser.info/",
@@ -8374,7 +8374,7 @@
     {
         "API": "Chronicling America",
         "Description": "Provides access to millions of pages of historic US newspapers from the Library of Congress",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://chroniclingamerica.loc.gov/about/api/",
@@ -8410,7 +8410,7 @@
     {
         "API": "Graphs for Coronavirus",
         "Description": "Each Country separately and Worldwide Graphs for Coronavirus. Daily updates",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://corona.dnsforfamily.com/api.txt",
@@ -8428,7 +8428,7 @@
     {
         "API": "Inshorts News",
         "Description": "Provides news from inshorts",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/cyberboysumanjay/Inshorts-News-API",
@@ -8500,7 +8500,7 @@
     {
         "API": "Spaceflight News",
         "Description": "Spaceflight related news 🚀",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://spaceflightnewsapi.net",
@@ -8509,7 +8509,7 @@
     {
         "API": "Substack API Wrapper",
         "Description": "Substack's newsletter platform now has an API wrapper, for easy access to latest posts",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/NHagar/substack_api",
@@ -8563,7 +8563,7 @@
     {
         "API": "18F",
         "Description": "Unofficial US Federal Government API Development",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://18f.github.io/API-All-the-X/",
@@ -8572,7 +8572,7 @@
     {
         "API": "API Setu",
         "Description": "An Indian Government platform that provides a lot of APIS for KYC, business, education & employment",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.apisetu.gov.in/",
@@ -8581,7 +8581,7 @@
     {
         "API": "Archive.org",
         "Description": "The Internet Archive",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://archive.readme.io/docs",
@@ -8599,7 +8599,7 @@
     {
         "API": "BotsArchive",
         "Description": "JSON formatted details about Telegram Bots available in database",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://botsarchive.com/docs.html",
@@ -8608,7 +8608,7 @@
     {
         "API": "Callook.info",
         "Description": "United States ham radio callsigns",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://callook.info",
@@ -8626,7 +8626,7 @@
     {
         "API": "CollegeScoreCard.ed.gov",
         "Description": "Data on higher education institutions in the United States",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://collegescorecard.ed.gov/data/",
@@ -8653,7 +8653,7 @@
     {
         "API": "French Address Search",
         "Description": "Address search via the French Government",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://geo.api.gouv.fr/adresse",
@@ -8698,7 +8698,7 @@
     {
         "API": "Lowy Asia Power Index",
         "Description": "Get measure resources and influence to rank the relative power of states in Asia",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/0x0is1/lowy-index-api-docs",
@@ -8707,7 +8707,7 @@
     {
         "API": "Microlink.io",
         "Description": "Extract structured data from any website",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://microlink.io",
@@ -8725,7 +8725,7 @@
     {
         "API": "Nobel Prize",
         "Description": "Open data about nobel prizes and events",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.nobelprize.org/about/developer-zone-2/",
@@ -8734,7 +8734,7 @@
     {
         "API": "Open Data Minneapolis",
         "Description": "Spatial (GIS) and non-spatial city data for Minneapolis",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://opendata.minneapolismn.gov/",
@@ -8743,7 +8743,7 @@
     {
         "API": "openAFRICA",
         "Description": "Large datasets repository of African open data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://africaopendata.org/",
@@ -8761,7 +8761,7 @@
     {
         "API": "OpenSanctions",
         "Description": "Data on international sanctions, crime and politically exposed persons",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.opensanctions.org/docs/api/",
@@ -8797,7 +8797,7 @@
     {
         "API": "Sofiaplan",
         "Description": "Access to urban research data for the Bulgarian capital Sofia",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://sofiaplan.bg/api/",
@@ -8806,7 +8806,7 @@
     {
         "API": "Teleport",
         "Description": "Quality of Life Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developers.teleport.org/",
@@ -8815,7 +8815,7 @@
     {
         "API": "Umeå Open Data",
         "Description": "Open data of the city Umeå in northern Sweden",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://opendata.umea.se/api/",
@@ -8833,7 +8833,7 @@
     {
         "API": "Universities List",
         "Description": "University names, countries and domains",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/Hipo/university-domains-list",
@@ -8842,7 +8842,7 @@
     {
         "API": "University of Oslo",
         "Description": "Courses, lecture videos, detailed information for courses etc. for the University of Oslo (Norway)",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.uio.no/",
@@ -8860,7 +8860,7 @@
     {
         "API": "Urban Observatory",
         "Description": "The largest set of publicly available real time urban data in the UK",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "no",
         "Link": "https://urbanobservatory.ac.uk",
@@ -8878,7 +8878,7 @@
     {
         "API": "Wikipedia",
         "Description": "Mediawiki Encyclopedia",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.mediawiki.org/wiki/API:Main_page",
@@ -8896,7 +8896,7 @@
     {
         "API": "Countly",
         "Description": "Countly web analytics",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://api.count.ly/reference",
@@ -8914,7 +8914,7 @@
     {
         "API": "Datamuse",
         "Description": "Word-finding query engine",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.datamuse.com/api/",
@@ -8923,7 +8923,7 @@
     {
         "API": "Drupal.org",
         "Description": "Drupal.org",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.drupal.org/drupalorg/docs/api",
@@ -8932,7 +8932,7 @@
     {
         "API": "Evil Insult Generator",
         "Description": "Evil Insults",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://evilinsult.com/api",
@@ -8941,7 +8941,7 @@
     {
         "API": "GitHub Contribution Chart Generator",
         "Description": "Create an image of your GitHub contributions",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github-contributions.vercel.app",
@@ -8950,7 +8950,7 @@
     {
         "API": "GitHub Profile README Generator",
         "Description": "Generate an image for your GitHub Profile README",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/Harman-Sandhu/github-profile-readme-generator",
@@ -8959,7 +8959,7 @@
     {
         "API": "GitHub ReadMe Stats",
         "Description": "Add dynamically generated statistics to your GitHub profile ReadMe",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/anuraghazra/github-readme-stats",
@@ -8968,7 +8968,7 @@
     {
         "API": "Metabase",
         "Description": "An open source Business Intelligence server to share data and analytics inside your company",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.metabase.com/",
@@ -8977,7 +8977,7 @@
     {
         "API": "Shields",
         "Description": "Concise, consistent, and legible badges in SVG and raster format",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://shields.io/",
@@ -8995,7 +8995,7 @@
     {
         "API": "PatentsView ",
         "Description": "API is intended to explore and visualize trends/patterns across the US innovation landscape",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://patentsview.org/apis/purpose",
@@ -9013,7 +9013,7 @@
     {
         "API": "USPTO",
         "Description": "USA patent api services",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.uspto.gov/learning-and-resources/open-data-and-mobility",
@@ -9022,7 +9022,7 @@
     {
         "API": "Advice Slip",
         "Description": "Generate random advice slips",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://api.adviceslip.com/",
@@ -9031,7 +9031,7 @@
     {
         "API": "Biriyani As A Service",
         "Description": "Biriyani images placeholder",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://biriyani.anoram.com/",
@@ -9049,7 +9049,7 @@
     {
         "API": "Dictum",
         "Description": "API to get access to the collection of the most inspiring expressions of mankind",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/fisenkodv/dictum",
@@ -9067,7 +9067,7 @@
     {
         "API": "Forismatic",
         "Description": "Inspirational Quotes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://forismatic.com/en/api/",
@@ -9076,7 +9076,7 @@
     {
         "API": "icanhazdadjoke",
         "Description": "The largest selection of dad jokes on the internet",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://icanhazdadjoke.com/api",
@@ -9085,7 +9085,7 @@
     {
         "API": "kanye.rest",
         "Description": "REST API for random Kanye West quotes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://kanye.rest",
@@ -9103,7 +9103,7 @@
     {
         "API": "Programming Quotes",
         "Description": "Programming Quotes API for open source projects",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/skolakoda/programming-quotes-api",
@@ -9112,7 +9112,7 @@
     {
         "API": "Quotable Quotes",
         "Description": "Quotable is a free, open source quotations API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/lukePeavey/quotable",
@@ -9121,7 +9121,7 @@
     {
         "API": "Quote Garden",
         "Description": "REST API for more than 5000 famous quotes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://pprathameshmore.github.io/QuoteGarden/",
@@ -9130,7 +9130,7 @@
     {
         "API": "quoteclear",
         "Description": "Ever-growing list of James Clear quotes from the 3-2-1 Newsletter",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://quoteclear.web.app/",
@@ -9139,7 +9139,7 @@
     {
         "API": "Quotes on Design",
         "Description": "Inspirational Quotes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://quotesondesign.com/api/",
@@ -9148,7 +9148,7 @@
     {
         "API": "Stoicism Quote",
         "Description": "Quotes about Stoicism",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/tlcheah2/stoic-quote-lambda-public-api",
@@ -9157,7 +9157,7 @@
     {
         "API": "They Said So Quotes",
         "Description": "Quotes Trusted by many fortune brands around the world",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://theysaidso.com/api/",
@@ -9166,7 +9166,7 @@
     {
         "API": "Traitify",
         "Description": "Assess, collect and analyze Personality",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://app.traitify.com/developer",
@@ -9184,7 +9184,7 @@
     {
         "API": "Vadivelu HTTP Codes",
         "Description": "On demand HTTP Codes with images",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://vadivelu.anoram.com/",
@@ -9193,7 +9193,7 @@
     {
         "API": "Zen Quotes",
         "Description": "Large collection of Zen quotes for inspiration",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://zenquotes.io/",
@@ -9229,7 +9229,7 @@
     {
         "API": "Phone Specification",
         "Description": "Rest Api for Phone specifications",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/azharimm/phone-specs-api",
@@ -9373,7 +9373,7 @@
     {
         "API": "Lorem Picsum",
         "Description": "Images from Unsplash",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://picsum.photos/",
@@ -9418,7 +9418,7 @@
     {
         "API": "PlaceKeanu",
         "Description": "Resizable Keanu Reeves placeholder images with grayscale and young Keanu options",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://placekeanu.com/",
@@ -9427,7 +9427,7 @@
     {
         "API": "Readme typing SVG",
         "Description": "Customizable typing and deleting text SVG",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/DenverCoder1/readme-typing-svg",
@@ -9445,7 +9445,7 @@
     {
         "API": "ReSmush.it",
         "Description": "Photo optimization",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://resmush.it/api",
@@ -9499,7 +9499,7 @@
     {
         "API": "iTunes",
         "Description": "Apple Podcasts Directory",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/index.html#//apple_ref/doc/uid/TP40017632-CH3-SW1",
@@ -9562,7 +9562,7 @@
     {
         "API": "Volca",
         "Description": "List of programming languages and technologies",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://volca.io#api",
@@ -9580,7 +9580,7 @@
     {
         "API": "arXiv",
         "Description": "Curated research-sharing platform: physics, mathematics, quantitative finance, and economics",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://arxiv.org/help/api/user-manual",
@@ -9598,7 +9598,7 @@
     {
         "API": "GBIF",
         "Description": "Global Biodiversity Information Facility",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.gbif.org/developer/summary",
@@ -9607,7 +9607,7 @@
     {
         "API": "iDigBio",
         "Description": "Access millions of museum specimens from organizations around the world",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/idigbio/idigbio-search-api/wiki",
@@ -9616,7 +9616,7 @@
     {
         "API": "inspirehep.net",
         "Description": "High Energy Physics info. system",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/inspirehep/rest-api-doc",
@@ -9625,7 +9625,7 @@
     {
         "API": "isEven (humor)",
         "Description": "Check if a number is even",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://isevenapi.xyz/",
@@ -9634,7 +9634,7 @@
     {
         "API": "ISRO",
         "Description": "ISRO Space Crafts Information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://isro.vercel.app",
@@ -9643,7 +9643,7 @@
     {
         "API": "ISRO Statistics",
         "Description": "ISRO Launches and Spacecrafts details",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://isrostats.in/apis",
@@ -9652,7 +9652,7 @@
     {
         "API": "ITIS",
         "Description": "Integrated Taxonomic Information System",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.itis.gov/ws_description.html",
@@ -9661,7 +9661,7 @@
     {
         "API": "Launch Library 2",
         "Description": "Spaceflight launches and events database",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://thespacedevs.com/llapi",
@@ -9679,7 +9679,7 @@
     {
         "API": "Minor Planet Center",
         "Description": "Asterank.com Information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://www.asterank.com/mpc",
@@ -9688,7 +9688,7 @@
     {
         "API": "NASA",
         "Description": "NASA data, including imagery",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://api.nasa.gov",
@@ -9706,7 +9706,7 @@
     {
         "API": "Newton",
         "Description": "Symbolic and Arithmetic Math Calculator",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://newton.vercel.app",
@@ -9715,7 +9715,7 @@
     {
         "API": "Noctua",
         "Description": "REST API used to access NoctuaSky features",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.noctuasky.com/api/v1/swaggerdoc/",
@@ -9733,7 +9733,7 @@
     {
         "API": "Numbers",
         "Description": "Facts about numbers",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "no",
         "Link": "http://numbersapi.com",
@@ -9742,7 +9742,7 @@
     {
         "API": "Open Notify",
         "Description": "ISS astronauts, current location, etc",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "no",
         "Link": "http://open-notify.org/Open-Notify-API/",
@@ -9751,7 +9751,7 @@
     {
         "API": "Open Science Framework",
         "Description": "Repository and archive for study designs, research materials, data, manuscripts, etc",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.osf.io",
@@ -9760,7 +9760,7 @@
     {
         "API": "Prime Number",
         "Description": "Check if a number(s) is prime, or query a list of prime numbers",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://prime-number-api-docs.onrender.com/",
@@ -9769,7 +9769,7 @@
     {
         "API": "Purple Air",
         "Description": "Real Time Air Quality Monitoring",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www2.purpleair.com/",
@@ -9778,7 +9778,7 @@
     {
         "API": "Remote Calc",
         "Description": "Decodes base64 encoding and parses it to return a solution to the calculation in JSON",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/elizabethadegbaju/remotecalc",
@@ -9787,7 +9787,7 @@
     {
         "API": "SHARE",
         "Description": "A free, open, dataset about research and scholarly activities",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://share.osf.io/api/v2/",
@@ -9796,7 +9796,7 @@
     {
         "API": "SpaceX",
         "Description": "Company, vehicle, launchpad and launch data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/r-spacex/SpaceX-API",
@@ -9805,7 +9805,7 @@
     {
         "API": "SpaceX",
         "Description": "GraphQL, Company, Ships, launchpad and launch data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.spacex.land/graphql/",
@@ -9814,7 +9814,7 @@
     {
         "API": "Sunrise and Sunset",
         "Description": "Sunset and sunrise times for a given latitude and longitude",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://sunrise-sunset.org/api",
@@ -9823,7 +9823,7 @@
     {
         "API": "Times Adder",
         "Description": "With this API you can add each of the times introduced in the array sent",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/FranP-code/API-Times-Adder",
@@ -9832,7 +9832,7 @@
     {
         "API": "TLE",
         "Description": "Satellite information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://tle.ivanstanojevic.me/#/docs",
@@ -9841,7 +9841,7 @@
     {
         "API": "USGS Earthquake Hazards Program",
         "Description": "Earthquakes data real-time",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://earthquake.usgs.gov/fdsnws/event/1/",
@@ -9850,7 +9850,7 @@
     {
         "API": "USGS Water Services",
         "Description": "Water quality and level info for rivers and lakes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://waterservices.usgs.gov/",
@@ -9859,7 +9859,7 @@
     {
         "API": "World Bank",
         "Description": "World Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://datahelpdesk.worldbank.org/knowledgebase/topics/125589",
@@ -9922,7 +9922,7 @@
     {
         "API": "Classify",
         "Description": "Encrypting & decrypting text messages",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/cheatsnake/classify",
@@ -9949,7 +9949,7 @@
     {
         "API": "Dehash.lt",
         "Description": "Hash decryption MD5, SHA1, SHA3, SHA256, SHA384, SHA512",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/Dehash-lt/api",
@@ -9958,7 +9958,7 @@
     {
         "API": "EmailRep",
         "Description": "Email address threat and risk prediction",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.emailrep.io/",
@@ -9967,7 +9967,7 @@
     {
         "API": "Escape",
         "Description": "An API for escaping different kind of queries",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/polarspetroll/EscapeAPI",
@@ -9976,7 +9976,7 @@
     {
         "API": "FilterLists",
         "Description": "Lists of filters for adblockers and firewalls",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://filterlists.com",
@@ -10039,7 +10039,7 @@
     {
         "API": "Hashable",
         "Description": "A REST API to access high level cryptographic functions and methods",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://hashable.space/pages/api/",
@@ -10075,7 +10075,7 @@
     {
         "API": "Microsoft Security Response Center (MSRC)",
         "Description": "Programmatic interfaces to engage with the Microsoft Security Response Center (MSRC)",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://msrc.microsoft.com/report/developer",
@@ -10084,7 +10084,7 @@
     {
         "API": "Mozilla http scanner",
         "Description": "Mozilla observatory http scanner",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/mozilla/http-observatory/blob/master/httpobs/docs/api.md",
@@ -10093,7 +10093,7 @@
     {
         "API": "Mozilla tls scanner",
         "Description": "Mozilla observatory tls scanner",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/mozilla/tls-observatory#api-endpoints",
@@ -10102,7 +10102,7 @@
     {
         "API": "National Vulnerability Database",
         "Description": "U.S. National Vulnerability Database",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://nvd.nist.gov/vuln/Data-Feeds/JSON-feed-changelog",
@@ -10111,7 +10111,7 @@
     {
         "API": "OWASP ZAP",
         "Description": "Automated security testing API for web apps",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.zaproxy.org/docs/api/",
@@ -10120,7 +10120,7 @@
     {
         "API": "Passwordinator",
         "Description": "Generate random passwords of varying complexities",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/fawazsullia/password-generator/",
@@ -10129,7 +10129,7 @@
     {
         "API": "PhishStats",
         "Description": "Phishing database",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://phishstats.info/",
@@ -10192,7 +10192,7 @@
     {
         "API": "UK Police",
         "Description": "UK Police data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.police.uk/docs/",
@@ -10201,7 +10201,7 @@
     {
         "API": "Virushee",
         "Description": "Virushee file/data scanning",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://api.virushee.com/",
@@ -10345,7 +10345,7 @@
     {
         "API": "4chan",
         "Description": "Simple image-based bulletin board dedicated to a variety of topics",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/4chan/4chan-API",
@@ -10363,7 +10363,7 @@
     {
         "API": "aztro",
         "Description": "Daily horoscope info for yesterday, today, and tomorrow",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://aztro.sameerkumar.website/",
@@ -10426,7 +10426,7 @@
     {
         "API": "HackerNews",
         "Description": "Social news for CS and entrepreneurship",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/HackerNews/API",
@@ -10435,7 +10435,7 @@
     {
         "API": "Hashnode",
         "Description": "A blogging platform built for developers",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://hashnode.com",
@@ -10471,7 +10471,7 @@
     {
         "API": "Lanyard",
         "Description": "Retrieve your presence on Discord through an HTTP REST API or WebSocket",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/Phineas/lanyard",
@@ -10525,7 +10525,7 @@
     {
         "API": "Open Collective",
         "Description": "Get Open Collective data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.opencollective.com/help/developers/api",
@@ -10721,7 +10721,7 @@
     {
         "API": "balldontlie",
         "Description": "Balldontlie provides access to stats data from the NBA",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.balldontlie.io",
@@ -10748,7 +10748,7 @@
     {
         "API": "City Bikes",
         "Description": "City Bikes around the world",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.citybik.es/v2/",
@@ -10775,7 +10775,7 @@
     {
         "API": "Ergast F1",
         "Description": "F1 data from the beginning of the world championships in 1950",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://ergast.com/mrd/",
@@ -10811,7 +10811,7 @@
     {
         "API": "Football (Soccer) Videos",
         "Description": "Embed codes for goals and highlights from Premier League, Bundesliga, Serie A and many more",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.scorebat.com/video-api/",
@@ -10820,7 +10820,7 @@
     {
         "API": "Football Standings",
         "Description": "Display football standings e.g epl, la liga, serie a etc. The data is based on espn site",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/azharimm/football-standings-api",
@@ -10856,7 +10856,7 @@
     {
         "API": "MLB Records and Stats",
         "Description": "Current and historical MLB statistics",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://appac.github.io/mlb-data-api-docs/",
@@ -10874,7 +10874,7 @@
     {
         "API": "NBA Stats",
         "Description": "Current and historical NBA Statistics",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://any-api.com/nba_com/nba_com/docs/API_Description",
@@ -10883,7 +10883,7 @@
     {
         "API": "NBA Stats",
         "Description": "NBA player statistics and data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://documenter.getpostman.com/view/24232555/2s93shzpR3",
@@ -10892,7 +10892,7 @@
     {
         "API": "NHL Records and Stats",
         "Description": "NHL historical data and statistics",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://gitlab.com/dword4/nhlapi",
@@ -10901,7 +10901,7 @@
     {
         "API": "Oddsmagnet",
         "Description": "Odds history from multiple UK bookmakers",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://data.oddsmagnet.com",
@@ -10910,7 +10910,7 @@
     {
         "API": "OpenLigaDB",
         "Description": "Crowd sourced sports league results",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.openligadb.de",
@@ -10964,7 +10964,7 @@
     {
         "API": "Squiggle",
         "Description": "Fixtures, results and predictions for Australian Football League matches",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://api.squiggle.com.au",
@@ -10982,7 +10982,7 @@
     {
         "API": "SuredBits",
         "Description": "Query sports data, including teams, players, games, scores and statistics",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "no",
         "Link": "https://suredbits.com/api/",
@@ -11018,7 +11018,7 @@
     {
         "API": "Bacon Ipsum",
         "Description": "A Meatier Lorem Ipsum Generator",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://baconipsum.com/json-api/",
@@ -11027,7 +11027,7 @@
     {
         "API": "Dicebear Avatars",
         "Description": "Generate random pixel-art avatars",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://avatars.dicebear.com/",
@@ -11036,7 +11036,7 @@
     {
         "API": "English Random Words",
         "Description": "Generate English Random Words with Pronunciation",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://random-words-api.vercel.app/word",
@@ -11054,7 +11054,7 @@
     {
         "API": "FakerAPI",
         "Description": "APIs collection to get fake data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://fakerapi.it/en",
@@ -11063,7 +11063,7 @@
     {
         "API": "FakeStoreAPI",
         "Description": "Fake store rest API for your e-commerce or shopping website prototype",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://fakestoreapi.com/",
@@ -11081,7 +11081,7 @@
     {
         "API": "ItsThisForThat",
         "Description": "Generate Random startup ideas",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://itsthisforthat.com/api.php",
@@ -11090,7 +11090,7 @@
     {
         "API": "JSONPlaceholder",
         "Description": "Fake data for testing and prototyping",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://jsonplaceholder.typicode.com/",
@@ -11099,7 +11099,7 @@
     {
         "API": "Loripsum",
         "Description": "The \"lorem ipsum\" generator that doesn't suck",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://loripsum.net/",
@@ -11117,7 +11117,7 @@
     {
         "API": "Metaphorsum",
         "Description": "Generate demo paragraphs giving number of words and sentences",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://metaphorpsum.com/",
@@ -11135,7 +11135,7 @@
     {
         "API": "QuickMocker",
         "Description": "API mocking tool to generate contextual, fake or random data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://quickmocker.com",
@@ -11144,7 +11144,7 @@
     {
         "API": "Random Data",
         "Description": "Random data generator",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://random-data-api.com",
@@ -11171,7 +11171,7 @@
     {
         "API": "RandomUser",
         "Description": "Generates and list user data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://randomuser.me",
@@ -11180,7 +11180,7 @@
     {
         "API": "RoboHash",
         "Description": "Generate random robot/alien avatars",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://robohash.org/",
@@ -11189,7 +11189,7 @@
     {
         "API": "This Person Does not Exist",
         "Description": "Generates real-life faces of people who do not exist",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://thispersondoesnotexist.com",
@@ -11198,7 +11198,7 @@
     {
         "API": "UUID Generator",
         "Description": "Generate UUIDs",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://www.uuidtools.com/docs",
@@ -11207,7 +11207,7 @@
     {
         "API": "What The Commit",
         "Description": "Random commit message generator",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "yes",
         "Link": "http://whatthecommit.com/index.txt",
@@ -11216,7 +11216,7 @@
     {
         "API": "Yes No",
         "Description": "Generate yes or no randomly",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://yesno.wtf/api",
@@ -11279,7 +11279,7 @@
     {
         "API": "LanguageTool",
         "Description": "Style and Grammar Checker for 25+ Languages",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://languagetool.org/http-api/",
@@ -11297,7 +11297,7 @@
     {
         "API": "LibreTranslate",
         "Description": "Translation tool with 17 available languages",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://libretranslate.com/docs",
@@ -11369,7 +11369,7 @@
     {
         "API": "PostalPinCode",
         "Description": "API for getting Pincode details in India",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://www.postalpincode.in/Api-Details",
@@ -11378,7 +11378,7 @@
     {
         "API": "Postmon",
         "Description": "An API to query Brazilian ZIP codes and orders easily, quickly and free",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://postmon.com.br",
@@ -11414,7 +11414,7 @@
     {
         "API": "WhatPulse",
         "Description": "Small application that measures your keyboard/mouse usage",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.whatpulse.org/#web-api",
@@ -11423,7 +11423,7 @@
     {
         "API": "adsbdb",
         "Description": "Open access to aircraft, airline, and flight route data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.adsbdb.com",
@@ -11432,7 +11432,7 @@
     {
         "API": "ADS-B Exchange",
         "Description": "Access real-time and historical data of any and all airborne aircraft",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.adsbexchange.com/data/",
@@ -11441,7 +11441,7 @@
     {
         "API": "airportsapi",
         "Description": "Get name and website-URL for airports by ICAO code",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://airport-web.appspot.com/api/docs/",
@@ -11468,7 +11468,7 @@
     {
         "API": "AviationAPI",
         "Description": "FAA Aeronautical Charts and Publications, Airport Information, and Airport Weather",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://docs.aviationapi.com",
@@ -11495,7 +11495,7 @@
     {
         "API": "BC Ferries",
         "Description": "Sailing times and capacities for BC Ferries",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.bcferriesapi.ca",
@@ -11531,7 +11531,7 @@
     {
         "API": "Community Transit",
         "Description": "Transitland API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/transitland/transitland-datastore/blob/master/README.md#api-endpoints",
@@ -11549,7 +11549,7 @@
     {
         "API": "facha",
         "Description": "Aircraft Tracking, AIS Ship Tracking, Temporary Email Detection, IP GeoLocation, Package Tracking",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://docs.api.facha.dev/",
@@ -11585,7 +11585,7 @@
     {
         "API": "Icelandic APIs",
         "Description": "Open APIs that deliver services in or regarding Iceland",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "http://docs.apis.is/",
@@ -11621,7 +11621,7 @@
     {
         "API": "Metro Lisboa",
         "Description": "Delays in subway lines",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "no",
         "Link": "http://app.metrolisboa.pt/status/getLinhas.php",
@@ -11648,7 +11648,7 @@
     {
         "API": "OpenSky Network",
         "Description": "Free real-time ADS-B aviation data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://opensky-network.org/apidoc/index.html",
@@ -11666,7 +11666,7 @@
     {
         "API": "REFUGE Restrooms",
         "Description": "Provides safe restroom access for transgender, intersex and gender nonconforming individuals",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.refugerestrooms.org/api/docs/#!/restrooms",
@@ -11702,7 +11702,7 @@
     {
         "API": "TransitLand",
         "Description": "Transit Aggregation",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.transit.land/documentation/datastore/api-endpoints.html",
@@ -11711,7 +11711,7 @@
     {
         "API": "Transport for Atlanta, US",
         "Description": "Marta",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://www.itsmarta.com/app-developer-resources.aspx",
@@ -11720,7 +11720,7 @@
     {
         "API": "Transport for Auckland, New Zealand",
         "Description": "Auckland Transport",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://dev-portal.at.govt.nz/",
@@ -11729,7 +11729,7 @@
     {
         "API": "Transport for Belgium",
         "Description": "The iRail API is a third-party API for Belgian public transport by train",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://docs.irail.be/",
@@ -11738,7 +11738,7 @@
     {
         "API": "Transport for Berlin, Germany",
         "Description": "Third-party VBB API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/derhuerst/vbb-rest/blob/5/docs/api.md",
@@ -11756,7 +11756,7 @@
     {
         "API": "Transport for Budapest, Hungary",
         "Description": "Budapest public transport API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://bkkfutar.docs.apiary.io",
@@ -11774,7 +11774,7 @@
     {
         "API": "Transport for Czech Republic",
         "Description": "Czech transport API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.chaps.cz/eng/products/idos-internet",
@@ -11783,7 +11783,7 @@
     {
         "API": "Transport for Denver, US",
         "Description": "RTD",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://www.rtd-denver.com/gtfs-developer-guide.shtml",
@@ -11810,7 +11810,7 @@
     {
         "API": "Transport for Grenoble, France",
         "Description": "Grenoble public transport",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "no",
         "Link": "https://www.mobilites-m.fr/pages/opendata/OpenDataApi.html",
@@ -11819,7 +11819,7 @@
     {
         "API": "Transport for Hessen, Germany",
         "Description": "RMV API (Public Transport in Hessen)",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://opendata.rmv.de/site/start.html",
@@ -11855,7 +11855,7 @@
     {
         "API": "Transport for Los Angeles, US",
         "Description": "Data about positions of Metro vehicles in real time and travel their routes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.metro.net/api/",
@@ -11873,7 +11873,7 @@
     {
         "API": "Transport for Norway",
         "Description": "Transport APIs and dataset for Norway",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://developer.entur.org/",
@@ -11891,7 +11891,7 @@
     {
         "API": "Transport for Paris, France",
         "Description": "RATP Open Data API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://data.ratp.fr/api/v1/console/datasets/1.0/search/",
@@ -11900,7 +11900,7 @@
     {
         "API": "Transport for Philadelphia, US",
         "Description": "SEPTA APIs",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://www3.septa.org/hackathon/",
@@ -11918,7 +11918,7 @@
     {
         "API": "Transport for Spain",
         "Description": "Public trains of Spain",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://data.renfe.com/api/1/util/snippet/api_info.html?resource_id=a2368cff-1562-4dde-8466-9635ea3a572a",
@@ -11945,7 +11945,7 @@
     {
         "API": "Transport for Switzerland",
         "Description": "Swiss public transport API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://transport.opendata.ch/",
@@ -11963,7 +11963,7 @@
     {
         "API": "Transport for The Netherlands",
         "Description": "OVAPI, country-wide public transport",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/skywave/KV78Turbo-OVAPI/wiki",
@@ -11972,7 +11972,7 @@
     {
         "API": "Transport for Toronto, Canada",
         "Description": "TTC",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://myttc.ca/developers",
@@ -11990,7 +11990,7 @@
     {
         "API": "Transport for United States",
         "Description": "NextBus API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "https://retro.umoiq.com/xmlFeedDocs/NextBusXMLFeed.pdf",
@@ -12017,7 +12017,7 @@
     {
         "API": "transport.rest",
         "Description": "Community maintained, developer-friendly public transport API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://transport.rest",
@@ -12044,7 +12044,7 @@
     {
         "API": "Velib metropolis, Paris, France",
         "Description": "Velib Open Data API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://www.velib-metropole.fr/donnees-open-data-gbfs-du-service-velib-metropole",
@@ -12053,7 +12053,7 @@
     {
         "API": "1pt",
         "Description": "A simple URL shortener",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/1pt-co/api/blob/main/README.md",
@@ -12071,7 +12071,7 @@
     {
         "API": "CleanURI",
         "Description": "URL shortener service",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://cleanuri.com/docs",
@@ -12107,7 +12107,7 @@
     {
         "API": "Drivet URL Shortener",
         "Description": "Shorten a long URL easily and fast",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://wiki.drivet.xyz/en/url-shortener/add-links",
@@ -12116,7 +12116,7 @@
     {
         "API": "Free Url Shortener",
         "Description": "Free URL Shortener offers a powerful API to interact with other sites",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://ulvis.net/developer.html",
@@ -12125,7 +12125,7 @@
     {
         "API": "GoTiny",
         "Description": "A lightweight URL shortener, focused on ease-of-use for the developer and end-user",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/robvanbakel/gotiny-api",
@@ -12143,7 +12143,7 @@
     {
         "API": "Mgnet.me",
         "Description": "Torrent URL shorten API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "http://mgnet.me/api.html",
@@ -12152,7 +12152,7 @@
     {
         "API": "owo",
         "Description": "A simple link obfuscator/shortener",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://owo.vc/api.html",
@@ -12170,7 +12170,7 @@
     {
         "API": "Shrtcode",
         "Description": "URl Shortener with multiple Domains",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://shrtco.de/docs",
@@ -12197,7 +12197,7 @@
     {
         "API": "url.dev",
         "Description": "Create short, temporary, self-destructing links that expire anywhere from a minute to a week.",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://autocode.com/url/api/temporary/0.3.0/create",
@@ -12206,7 +12206,7 @@
     {
         "API": "Urlmskr",
         "Description": "Easy and fast masked, shortened link creation",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/Axorax/urlmskr#urlmskr-api",
@@ -12215,7 +12215,7 @@
     {
         "API": "Brazilian Vehicles and Prices",
         "Description": "Vehicles information from Fundação Instituto de Pesquisas Econômicas - Fipe",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://deividfortuna.github.io/fipe/",
@@ -12251,7 +12251,7 @@
     {
         "API": "NHTSA",
         "Description": "NHTSA Product Information Catalog and Vehicle Listing",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://vpic.nhtsa.dot.gov/api/",
@@ -12269,7 +12269,7 @@
     {
         "API": "An API of Ice And Fire",
         "Description": "Game Of Thrones API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://anapioficeandfire.com/",
@@ -12278,7 +12278,7 @@
     {
         "API": "Breaking Bad Quotes",
         "Description": "Some Breaking Bad quotes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/shevabam/breaking-bad-quotes",
@@ -12287,7 +12287,7 @@
     {
         "API": "Buffy the Vampire Slayer and Angel",
         "Description": "Get episode, cast and crew data from Buffy the Vampire Slayer and Angel",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/Thatskat/btvs-angel-api",
@@ -12296,7 +12296,7 @@
     {
         "API": "Catalogopolis",
         "Description": "Doctor Who API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://api.catalogopolis.xyz/docs/",
@@ -12305,7 +12305,7 @@
     {
         "API": "Czech Television",
         "Description": "TV programme of Czech TV",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://www.ceskatelevize.cz/xml/tv-program/",
@@ -12323,7 +12323,7 @@
     {
         "API": "Dune",
         "Description": "A simple API which provides you with book, character, movie and quotes JSON data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/ywalia01/dune-api",
@@ -12332,7 +12332,7 @@
     {
         "API": "Final Space",
         "Description": "Final Space API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://finalspaceapi.com/docs/",
@@ -12341,7 +12341,7 @@
     {
         "API": "Game of Thrones Quotes",
         "Description": "Some Game of Thrones quotes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://gameofthronesquotes.xyz/",
@@ -12359,7 +12359,7 @@
     {
         "API": "Harry Potter Characters",
         "Description": "Harry Potter Characters Data with with imagery",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://hp-api.onrender.com/",
@@ -12377,7 +12377,7 @@
     {
         "API": "IMDbOT",
         "Description": "Unofficial IMDb Movie / Series Information",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/SpEcHiDe/IMDbOT",
@@ -12395,7 +12395,7 @@
     {
         "API": "Lucifer Quotes",
         "Description": "Returns Lucifer quotes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/shadowoff09/lucifer-quotes",
@@ -12404,7 +12404,7 @@
     {
         "API": "MCU Countdown",
         "Description": "A Countdown to the next MCU Film",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/DiljotSG/MCU-Countdown",
@@ -12413,7 +12413,7 @@
     {
         "API": "Movie Quote",
         "Description": "Random Movie and Series Quotes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/F4R4N/movie-quote/",
@@ -12440,7 +12440,7 @@
     {
         "API": "Ron Swanson Quotes",
         "Description": "Television",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/jamesseanwright/ron-swanson-quotes#ron-swanson-quotes-api",
@@ -12467,7 +12467,7 @@
     {
         "API": "South Park Quotes",
         "Description": "Get some quotes from South Park, mmkay!",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/Thatskat/southpark-quotes-api",
@@ -12476,7 +12476,7 @@
     {
         "API": "STAPI",
         "Description": "Information on all things Star Trek",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://stapi.co",
@@ -12485,7 +12485,7 @@
     {
         "API": "Stranger Things Quotes",
         "Description": "Returns Stranger Things quotes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://github.com/shadowoff09/strangerthings-quotes",
@@ -12494,7 +12494,7 @@
     {
         "API": "Stream",
         "Description": "Czech internet television, films, series and online videos for free",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://api.stream.cz/graphiql",
@@ -12503,7 +12503,7 @@
     {
         "API": "Stromberg Quotes",
         "Description": "Returns Stromberg quotes and more",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.stromberg-api.de/",
@@ -12512,7 +12512,7 @@
     {
         "API": "Supernatural Quotes",
         "Description": "100+ Supernatural quotes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://lidiakovac.github.io/supernatural-api",
@@ -12521,7 +12521,7 @@
     {
         "API": "SWAPI",
         "Description": "All the Star Wars data you've ever wanted",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://swapi.dev/",
@@ -12530,7 +12530,7 @@
     {
         "API": "SWAPI",
         "Description": "All things Star Wars",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.swapi.tech",
@@ -12539,7 +12539,7 @@
     {
         "API": "SWAPI GraphQL",
         "Description": "Star Wars GraphQL API",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://graphql.org/swapi-graphql",
@@ -12566,7 +12566,7 @@
     {
         "API": "ThronesApi",
         "Description": "Game Of Thrones Characters Data with imagery",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://thronesapi.com/",
@@ -12611,7 +12611,7 @@
     {
         "API": "TVMaze",
         "Description": "TV Show Data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://www.tvmaze.com/api",
@@ -12647,7 +12647,7 @@
     {
         "API": "Web Series Quotes Generator",
         "Description": "API generates various Web Series Quote Images",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://github.com/yogeshwaran01/web-series-quotes",
@@ -12665,7 +12665,7 @@
     {
         "API": "7Timer!",
         "Description": "Weather, especially for Astroweather",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://www.7timer.info/doc.php?lang=en",
@@ -12710,7 +12710,7 @@
     {
         "API": "AviationWeather",
         "Description": "NOAA aviation weather forecasts and observations",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.aviationweather.gov/dataserver",
@@ -12755,7 +12755,7 @@
     {
         "API": "Hong Kong Obervatory",
         "Description": "Provide weather information, earthquake information, and climate data",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.hko.gov.hk/en/abouthko/opendata_intro.htm",
@@ -12809,7 +12809,7 @@
     {
         "API": "ODWeather",
         "Description": "Weather and weather webcams",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": false,
         "Cors": "unknown",
         "Link": "http://api.oceandrivers.com/static/docs.html",
@@ -12827,7 +12827,7 @@
     {
         "API": "Open-Meteo",
         "Description": "Global weather forecast API for non-commercial use",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://open-meteo.com/",
@@ -12836,7 +12836,7 @@
     {
         "API": "openSenseMap",
         "Description": "Data from Personal Weather Stations called senseBoxes",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://api.opensensemap.org/",
@@ -12872,7 +12872,7 @@
     {
         "API": "RainViewer",
         "Description": "Radar data collected from different websites across the Internet",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "unknown",
         "Link": "https://www.rainviewer.com/api.html",
@@ -12899,7 +12899,7 @@
     {
         "API": "US Weather",
         "Description": "US National Weather Service",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "yes",
         "Link": "https://www.weather.gov/documentation/services-web-api",
@@ -12917,7 +12917,7 @@
     {
         "API": "weather-api",
         "Description": "A RESTful free API to check the weather",
-        "Auth": "",
+        "Auth": "noAuth",
         "HTTPS": true,
         "Cors": "no",
         "Link": "https://github.com/robertoduessmann/weather-api",

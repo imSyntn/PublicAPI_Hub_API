@@ -34,7 +34,16 @@ app.get('/search/:name', (req,res)=> {
     const result1 = resource.entries.filter((item) => item.API.toLowerCase().includes(searchedFor))
     const result2 = getSpecificCataoryResult(resource.entries, searchedFor)
     const result3 = resource.entries.filter((item) => item.Description.toLowerCase().includes(searchedFor))
-    const results = [result1,result2, result3].flat(1)
+    const results = [...result1, ...result2, ...result3]
+    // let set = new Set()
+    // let uniqueRes = []
+    // for(let item of results) {
+    //     if(!set.has(item.api)){
+    //         set.add(item.name)
+    //         uniqueRes.push(item.name)
+    //     }
+    // }
+    // res.send(uniqueRes)
     res.send(results)
 })
 
